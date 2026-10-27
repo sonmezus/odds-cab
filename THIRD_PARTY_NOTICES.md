@@ -9,4 +9,4 @@ This inventory is not a grant of rights or a completed redistribution-license au
 - **ParticlePack effects**, imported vehicle assets, and user-supplied material images do not have complete redistribution-license evidence in this export. Their original terms and attribution requirements must be checked before treating them as open-source assets or redistributing them further.
 - Project provenance records describe locally authored environment geometry and modified existing character assets. These records do not establish licenses for their source images or original imported character/vehicle assets.
 
-The repository owner must select a license for original game code separately from third-party assets.
+The original game code is MIT-licensed within the scope defined in [LICENSING.md](LICENSING.md). That grant does not change any third-party license or establish missing redistribution rights for imported assets.

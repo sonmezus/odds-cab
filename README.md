@@ -23,4 +23,4 @@ This is a curated export of the working project. Unity caches, builds, logs, per
 
 The original project had no Unity script-compilation failure when this export was prepared. Assets were selected using Unity AssetDatabase dependency traversal, project-setting GUID references, and runtime Resources roots. A fresh import/build of this exported copy has not yet been completed.
 
-No project-wide open-source license has been granted by this repository. Public visibility alone does not grant reuse rights. Third-party fonts, plugins, and other assets retain their own licenses; included font license notices must be preserved. See `THIRD_PARTY_NOTICES.md` before redistribution.
+The original C# game code and assembly definitions under `Assets/_Game/Scripts/`, together with the original repository documentation, are licensed under the [MIT License](LICENSE). See [LICENSING.md](LICENSING.md) for the exact scope. Art, audio, shaders, Unity assets/settings, and third-party components are outside this MIT grant and retain their applicable terms. Redistribution rights for some imported assets remain unverified; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
