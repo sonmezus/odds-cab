@@ -1,0 +1,4056 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "O01",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 1,
+      "durationSeconds": 30,
+      "promptTR": "Hangi gezegenin kendi ekseni çevresindeki bir tam dönüşü, Güneş çevresindeki bir turundan uzun sürer?",
+      "promptEN": "Which planet takes longer to spin once on its axis than to orbit the Sun once?",
+      "correctAnswerTR": "Venüs",
+      "correctAnswerEN": "Venus",
+      "distractorsTR": [
+        "Mars",
+        "Dünya",
+        "Jüpiter"
+      ],
+      "distractorsEN": [
+        "Mars",
+        "Earth",
+        "Jupiter"
+      ],
+      "explanationTR": "Venüs'ün eksen dönüşü yaklaşık 243, yörünge turu 225 Dünya günüdür.",
+      "explanationEN": "Venus spins once in about 243 Earth days but orbits the Sun in about 225.",
+      "sourceIds": [
+        "S29"
+      ]
+    },
+    {
+      "id": "O02",
+      "category": "Soru",
+      "mechanicId": "F06",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "Bu gezegenlerden hangisinin ortalama yoğunluğu sıvı sudan düşüktür?",
+      "promptEN": "Which of these planets has an average density lower than liquid water?",
+      "correctAnswerTR": "Satürn",
+      "correctAnswerEN": "Saturn",
+      "distractorsTR": [
+        "Dünya",
+        "Mars",
+        "Merkür"
+      ],
+      "distractorsEN": [
+        "Earth",
+        "Mars",
+        "Mercury"
+      ],
+      "explanationTR": "ESA, Satürn'ün ortalama yoğunluğunu yaklaşık 0,7 g/cm³ olarak verir.",
+      "explanationEN": "ESA gives Saturn's mean density as about 0.7 g/cm³.",
+      "sourceIds": [
+        "S31"
+      ]
+    },
+    {
+      "id": "O03",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "Güneş'e en yakın gezegen Merkür. Peki en yüksek ortalama yüzey sıcaklığı hangi gezegende?",
+      "promptEN": "Mercury is closest to the Sun. Which planet has the highest average surface temperature?",
+      "correctAnswerTR": "Venüs",
+      "correctAnswerEN": "Venus",
+      "distractorsTR": [
+        "Merkür",
+        "Mars",
+        "Dünya"
+      ],
+      "distractorsEN": [
+        "Mercury",
+        "Mars",
+        "Earth"
+      ],
+      "explanationTR": "Kalın atmosferi ve güçlü sera etkisi Venüs'ü daha sıcak yapar.",
+      "explanationEN": "Venus's thick atmosphere and strong greenhouse effect make it hotter.",
+      "sourceIds": [
+        "S30"
+      ]
+    },
+    {
+      "id": "O04",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 0,
+      "durationSeconds": 20,
+      "promptTR": "Akvaryuma gidiyoruz: ahtapotun kaç kalbi vardır?",
+      "promptEN": "We're heading to the aquarium: how many hearts does an octopus have?",
+      "correctAnswerTR": "3",
+      "correctAnswerEN": "3",
+      "distractorsTR": [
+        "1",
+        "2",
+        "8"
+      ],
+      "distractorsEN": [
+        "1",
+        "2",
+        "8"
+      ],
+      "explanationTR": "İki kalp solungaçlara, bir kalp vücuda kan pompalar.",
+      "explanationEN": "Two hearts pump blood to the gills and one to the body.",
+      "sourceIds": [
+        "S32"
+      ]
+    },
+    {
+      "id": "O05",
+      "category": "Soru",
+      "mechanicId": "F03",
+      "difficulty": 1,
+      "durationSeconds": 25,
+      "promptTR": "Güneş'ten çıkan ışık Dünya'ya yaklaşık ne kadar sürede gelir?",
+      "promptEN": "Roughly how long does sunlight take to reach Earth?",
+      "correctAnswerTR": "8 dakika 20 saniye",
+      "correctAnswerEN": "8 minutes 20 seconds",
+      "distractorsTR": [
+        "Anında",
+        "1 saat",
+        "1 gün"
+      ],
+      "distractorsEN": [
+        "Instantly",
+        "1 hour",
+        "1 day"
+      ],
+      "explanationTR": "NASA SOHO yaklaşık 500 saniye verir.",
+      "explanationEN": "NASA SOHO gives about 500 seconds.",
+      "sourceIds": [
+        "S33"
+      ]
+    },
+    {
+      "id": "H01",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "Gökkuşağında kaç ana renk sayılır?",
+      "promptEN": "How many main colours are usually counted in a rainbow?",
+      "correctAnswerTR": "7",
+      "correctAnswerEN": "7",
+      "distractorsTR": [
+        "5",
+        "6",
+        "9"
+      ],
+      "distractorsEN": [
+        "5",
+        "6",
+        "9"
+      ],
+      "explanationTR": "Kırmızı, turuncu, sarı, yeşil, mavi, lacivert, mor.",
+      "explanationEN": "Red, orange, yellow, green, blue, indigo, violet.",
+      "sourceIds": []
+    },
+    {
+      "id": "H02",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "Örümceklerin kaç bacağı vardır?",
+      "promptEN": "How many legs does a spider have?",
+      "correctAnswerTR": "8",
+      "correctAnswerEN": "8",
+      "distractorsTR": [
+        "6",
+        "10",
+        "4"
+      ],
+      "distractorsEN": [
+        "6",
+        "10",
+        "4"
+      ],
+      "explanationTR": "Örümcekler böcek değil, eklembacaklı örümceğimsilerdir ve 8 bacakları vardır.",
+      "explanationEN": "Spiders are arachnids, not insects, and have 8 legs.",
+      "sourceIds": []
+    },
+    {
+      "id": "H03",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 1,
+      "durationSeconds": 25,
+      "promptTR": "Su deniz seviyesinde kaç santigrat derecede kaynar?",
+      "promptEN": "At sea level, at how many degrees Celsius does water boil?",
+      "correctAnswerTR": "100",
+      "correctAnswerEN": "100",
+      "distractorsTR": [
+        "90",
+        "80",
+        "120"
+      ],
+      "distractorsEN": [
+        "90",
+        "80",
+        "120"
+      ],
+      "explanationTR": "Deniz seviyesinde saf su 100 °C'de kaynar; yükseklik arttıkça bu değer düşer.",
+      "explanationEN": "Pure water boils at 100 °C at sea level; the value drops at altitude.",
+      "sourceIds": []
+    },
+    {
+      "id": "H04",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 1,
+      "durationSeconds": 30,
+      "promptTR": "Bir yıl 365 gün ise, artık yıl kaç gündür?",
+      "promptEN": "If a normal year has 365 days, how many days does a leap year have?",
+      "correctAnswerTR": "366",
+      "correctAnswerEN": "366",
+      "distractorsTR": [
+        "364",
+        "367",
+        "360"
+      ],
+      "distractorsEN": [
+        "364",
+        "367",
+        "360"
+      ],
+      "explanationTR": "Artık yılda Şubat 29 gün çeker.",
+      "explanationEN": "In a leap year February has 29 days.",
+      "sourceIds": []
+    },
+    {
+      "id": "O06",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "Yolcu tünelde 'Merhaba!' diyor. Biraz sonra aynı sözü, yeni bir konuşmacı olmadan geri duyuyor. Ne duyuyor?",
+      "promptEN": "A passenger says 'Hello!' in a tunnel and soon hears the same word back with no new speaker. What is it?",
+      "correctAnswerTR": "Yankı",
+      "correctAnswerEN": "An echo",
+      "distractorsTR": [
+        "Radyo",
+        "Anons",
+        "Fısıltı"
+      ],
+      "distractorsEN": [
+        "The radio",
+        "An announcement",
+        "A whisper"
+      ],
+      "explanationTR": "Ses yüzeylerden yansıyıp gecikerek geri gelir.",
+      "explanationEN": "Sound bounces off the walls and returns with a delay.",
+      "sourceIds": [
+        "S23"
+      ]
+    },
+    {
+      "id": "O07",
+      "category": "Bilmece",
+      "mechanicId": "F12",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "Üzerimde sokaklar ve meydanlar var; üstümdeki arabalar hiç ilerlemiyor. Beni katlayıp cebine koyabilirsin.",
+      "promptEN": "I have streets and squares, but my cars never move. You can fold me into your pocket.",
+      "correctAnswerTR": "Harita",
+      "correctAnswerEN": "A map",
+      "distractorsTR": [
+        "Pencere",
+        "Trafik lambası",
+        "Köprü"
+      ],
+      "distractorsEN": [
+        "A window",
+        "A traffic light",
+        "A bridge"
+      ],
+      "explanationTR": "Katlanabilen şehir gösterimi diğer seçenekleri eler.",
+      "explanationEN": "A foldable picture of a city rules out the other options.",
+      "sourceIds": [
+        "S23"
+      ]
+    },
+    {
+      "id": "O08",
+      "category": "Bilmece",
+      "mechanicId": "F12",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "Taksi duvarın önünde durdu. Yolcu elini lambaya yaklaştırınca duvardaki benzer biçim büyüdü. Büyüyen ne?",
+      "promptEN": "The taxi stopped by a wall. As the passenger moved a hand closer to the lamp, a similar shape on the wall grew. What grew?",
+      "correctAnswerTR": "Gölge",
+      "correctAnswerEN": "The shadow",
+      "distractorsTR": [
+        "El",
+        "Duvar",
+        "Ayna"
+      ],
+      "distractorsEN": [
+        "The hand",
+        "The wall",
+        "A mirror"
+      ],
+      "explanationTR": "Işık kaynağına yaklaşan elin gölgesi büyür.",
+      "explanationEN": "A hand moving toward a light source casts a bigger shadow.",
+      "sourceIds": [
+        "S13"
+      ]
+    },
+    {
+      "id": "O09",
+      "category": "Bilmece",
+      "mechanicId": "F14",
+      "difficulty": 1,
+      "durationSeconds": 45,
+      "promptTR": "Üç torbada yalnız simit, yalnız poğaça ve karışık var. Etiketlerin ÜÇÜ de yanlış. 'Karışık' yazan torbadan bir simit çıktı. Bu torbada ne var?",
+      "promptEN": "Three bags hold only bagels, only pastries, and a mix. ALL three labels are wrong. A bagel came out of the bag labelled 'Mixed'. What is in it?",
+      "correctAnswerTR": "Yalnız simit",
+      "correctAnswerEN": "Only bagels",
+      "distractorsTR": [
+        "Karışık",
+        "Yalnız poğaça",
+        "Boş"
+      ],
+      "distractorsEN": [
+        "A mix",
+        "Only pastries",
+        "Nothing"
+      ],
+      "explanationTR": "'Karışık' etiketi yanlış, yani torba saf türdedir; çıkan simit türü belirler.",
+      "explanationEN": "The 'Mixed' label is wrong, so the bag is pure; the bagel tells you which kind.",
+      "sourceIds": [
+        "S03"
+      ]
+    },
+    {
+      "id": "O10",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 0,
+      "durationSeconds": 30,
+      "promptTR": "Ön camda damlalar var, silecek geçince kayboluyorlar ama fırtına yok. Araç kapalı garajda, üstünde açık duş başlıkları var. Ne oluyor?",
+      "promptEN": "Drops cover the windscreen and vanish with the wipers, but there's no storm. The car is in a closed garage under open shower heads. What's happening?",
+      "correctAnswerTR": "Araç yıkama",
+      "correctAnswerEN": "A car wash",
+      "distractorsTR": [
+        "Deniz dalgası",
+        "Kar yağışı",
+        "Kum fırtınası"
+      ],
+      "distractorsEN": [
+        "A sea wave",
+        "Snowfall",
+        "A sandstorm"
+      ],
+      "explanationTR": "Görünen garaj ve duş ipuçları sahneyi açıklar.",
+      "explanationEN": "The visible garage and shower heads explain the scene.",
+      "sourceIds": [
+        "S12"
+      ]
+    },
+    {
+      "id": "H10",
+      "category": "Bilmece",
+      "mechanicId": "F09",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "Akrebim ve yelkovanım var ama sokmam. Neyim?",
+      "promptEN": "I have hands but cannot clap. What am I?",
+      "correctAnswerTR": "Saat",
+      "correctAnswerEN": "A clock",
+      "distractorsTR": [
+        "Akrep",
+        "Pusula",
+        "Takvim"
+      ],
+      "distractorsEN": [
+        "A glove",
+        "A compass",
+        "A calendar"
+      ],
+      "explanationTR": "Saatin ibrelerine akrep ve yelkovan denir.",
+      "explanationEN": "A clock's pointers are called hands.",
+      "sourceIds": []
+    },
+    {
+      "id": "H11",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "Ne kadar çok alırsan, geride o kadar çok bırakırsın. Nedir?",
+      "promptEN": "The more you take, the more you leave behind. What are they?",
+      "correctAnswerTR": "Ayak izi",
+      "correctAnswerEN": "Footsteps",
+      "distractorsTR": [
+        "Para",
+        "Zaman",
+        "Fotoğraf"
+      ],
+      "distractorsEN": [
+        "Money",
+        "Time",
+        "Photos"
+      ],
+      "explanationTR": "Her adım arkanda bir iz bırakır.",
+      "explanationEN": "Every step leaves a footprint behind.",
+      "sourceIds": []
+    },
+    {
+      "id": "H12",
+      "category": "Bilmece",
+      "mechanicId": "F12",
+      "difficulty": 1,
+      "durationSeconds": 30,
+      "promptTR": "Gece gelir, sabah gider; sayılır ama bitmez gibi görünür. Gökyüzünde parlar.",
+      "promptEN": "They come out at night and leave by morning; you can count them but never finish. They shine above.",
+      "correctAnswerTR": "Yıldızlar",
+      "correctAnswerEN": "Stars",
+      "distractorsTR": [
+        "Bulutlar",
+        "Kuşlar",
+        "Fenerler"
+      ],
+      "distractorsEN": [
+        "Clouds",
+        "Birds",
+        "Lanterns"
+      ],
+      "explanationTR": "Yıldızlar gece görünür, gündüz Güneş ışığında kaybolur.",
+      "explanationEN": "Stars appear at night and fade in daylight.",
+      "sourceIds": []
+    },
+    {
+      "id": "H13",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 1,
+      "durationSeconds": 30,
+      "promptTR": "Kırılmadan önce kullanılamaz. Nedir?",
+      "promptEN": "It must be broken before you can use it. What is it?",
+      "correctAnswerTR": "Yumurta",
+      "correctAnswerEN": "An egg",
+      "distractorsTR": [
+        "Cam",
+        "Kalem",
+        "Kilit"
+      ],
+      "distractorsEN": [
+        "Glass",
+        "A pencil",
+        "A lock"
+      ],
+      "explanationTR": "Yumurtayı pişirmek için önce kırarız.",
+      "explanationEN": "You crack an egg before cooking it.",
+      "sourceIds": []
+    },
+    {
+      "id": "H14",
+      "category": "Bilmece",
+      "mechanicId": "F13",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "Ağzı var konuşmaz, yatağı var uyumaz, hep akar durur.",
+      "promptEN": "It has a mouth but never speaks, a bed but never sleeps, and it always runs.",
+      "correctAnswerTR": "Nehir",
+      "correctAnswerEN": "A river",
+      "distractorsTR": [
+        "Taksi",
+        "Rüzgâr",
+        "Saat"
+      ],
+      "distractorsEN": [
+        "A taxi",
+        "The wind",
+        "A clock"
+      ],
+      "explanationTR": "Nehrin ağzı (ağız/denize döküldüğü yer) ve yatağı vardır.",
+      "explanationEN": "A river has a mouth and a riverbed.",
+      "sourceIds": []
+    },
+    {
+      "id": "H15",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 2,
+      "durationSeconds": 40,
+      "promptTR": "Bir babanın beş kızı var; her kızın bir erkek kardeşi var. Ailede toplam kaç çocuk var?",
+      "promptEN": "A father has five daughters, and each daughter has one brother. How many children are there in total?",
+      "correctAnswerTR": "6",
+      "correctAnswerEN": "6",
+      "distractorsTR": [
+        "10",
+        "5",
+        "11"
+      ],
+      "distractorsEN": [
+        "10",
+        "5",
+        "11"
+      ],
+      "explanationTR": "Tüm kızların erkek kardeşi aynı kişidir: 5 kız + 1 erkek.",
+      "explanationEN": "All daughters share the same brother: 5 girls + 1 boy.",
+      "sourceIds": []
+    },
+    {
+      "id": "O16",
+      "category": "Kelime",
+      "mechanicId": "F25",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "'KASA' tabelasındaki tek harfi değiştir: 'büyük ve sert taş kütlesi' anlamına gelsin.",
+      "promptEN": "Change one letter of the sign 'BAKE' to get 'a body of fresh water surrounded by land'.",
+      "correctAnswerTR": "KAYA",
+      "correctAnswerEN": "LAKE",
+      "distractorsTR": [
+        "KUSA",
+        "KASE",
+        "MASA"
+      ],
+      "distractorsEN": [
+        "BIKE",
+        "BARE",
+        "CAKE"
+      ],
+      "explanationTR": "Üçüncü harf S → Y: KAYA.",
+      "explanationEN": "First letter B → L: LAKE.",
+      "sourceIds": [
+        "S04"
+      ]
+    },
+    {
+      "id": "O18",
+      "category": "Kelime",
+      "mechanicId": "F28",
+      "difficulty": 1,
+      "durationSeconds": 30,
+      "promptTR": "'Acele etme, tromboncu bekliyor.' cümlesinde boşlukları yok say. İki sözcüğün sınırında saklanan raylı ulaşım aracı hangisi?",
+      "promptEN": "Ignore spaces and punctuation in 'Don't wait, rain is coming.' Which rail vehicle hides across the end of one word and the start of the next?",
+      "correctAnswerTR": "METRO",
+      "correctAnswerEN": "TRAIN",
+      "distractorsTR": [
+        "TRAMVAY",
+        "VAPUR",
+        "OTOBÜS"
+      ],
+      "distractorsEN": [
+        "TRAM",
+        "FERRY",
+        "BUS"
+      ],
+      "explanationTR": "etME + TROmboncu = METRO.",
+      "explanationEN": "waiT + RAIN = TRAIN.",
+      "sourceIds": [
+        "S04"
+      ]
+    },
+    {
+      "id": "O19",
+      "category": "Kelime",
+      "mechanicId": "F13",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "Hem ağacın gövdesinden çıkan bölüm, hem de bir bilim alanı.",
+      "promptEN": "Both the part of a tree that grows from the trunk and a section of a company.",
+      "correctAnswerTR": "DAL",
+      "correctAnswerEN": "BRANCH",
+      "distractorsTR": [
+        "YOL",
+        "KAPI",
+        "MASA"
+      ],
+      "distractorsEN": [
+        "ROAD",
+        "DOOR",
+        "TABLE"
+      ],
+      "explanationTR": "Ağacın dalı ve bilim dalı.",
+      "explanationEN": "A tree branch and a company branch.",
+      "sourceIds": [
+        "S04"
+      ]
+    },
+    {
+      "id": "O20",
+      "category": "Kelime",
+      "mechanicId": "F27",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "KASA'dan MAYA'ya git; her adımda yalnız bir harf değişebilir. Hangi ara sözcük gerekli?",
+      "promptEN": "Go from CAT to DOG changing one letter at a time: CAT → COT → ? → DOG. Which word is needed?",
+      "correctAnswerTR": "KAYA",
+      "correctAnswerEN": "DOT",
+      "distractorsTR": [
+        "MASA",
+        "KASE",
+        "MAYO"
+      ],
+      "distractorsEN": [
+        "CAB",
+        "CUT",
+        "BAT"
+      ],
+      "explanationTR": "KASA → KAYA (S/Y) → MAYA (K/M).",
+      "explanationEN": "COT → DOT (C/D) → DOG (T/G).",
+      "sourceIds": [
+        "S04"
+      ]
+    },
+    {
+      "id": "K01",
+      "category": "Kelime",
+      "mechanicId": "F13",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "Hem yüzümüzde bulunur, hem de bir akarsuyun denize döküldüğü yer.",
+      "promptEN": "It is on your face, and it is where a river meets the sea.",
+      "correctAnswerTR": "AĞIZ",
+      "correctAnswerEN": "MOUTH",
+      "distractorsTR": [
+        "BURUN",
+        "KULAK",
+        "GÖZ"
+      ],
+      "distractorsEN": [
+        "NOSE",
+        "EAR",
+        "EYE"
+      ],
+      "explanationTR": "Ağız ve nehir ağzı.",
+      "explanationEN": "Your mouth and a river mouth.",
+      "sourceIds": []
+    },
+    {
+      "id": "K02",
+      "category": "Kelime",
+      "mechanicId": "F13",
+      "difficulty": 1,
+      "durationSeconds": 30,
+      "promptTR": "Hem gökyüzünde parlayan, hem de filmde başrol oynayan ünlü kişi.",
+      "promptEN": "Both something shining in the night sky and a famous film actor.",
+      "correctAnswerTR": "YILDIZ",
+      "correctAnswerEN": "STAR",
+      "distractorsTR": [
+        "AY",
+        "GÜNEŞ",
+        "BULUT"
+      ],
+      "distractorsEN": [
+        "MOON",
+        "SUN",
+        "CLOUD"
+      ],
+      "explanationTR": "Gökteki yıldız ve sinema yıldızı.",
+      "explanationEN": "A star in the sky and a movie star.",
+      "sourceIds": []
+    },
+    {
+      "id": "K03",
+      "category": "Kelime",
+      "mechanicId": "F06",
+      "difficulty": 1,
+      "durationSeconds": 30,
+      "promptTR": "Hangisi diğerleriyle aynı grupta değil?",
+      "promptEN": "Which one does not belong with the others?",
+      "correctAnswerTR": "Martı",
+      "correctAnswerEN": "Seagull",
+      "distractorsTR": [
+        "Vapur",
+        "Taksi",
+        "Tramvay"
+      ],
+      "distractorsEN": [
+        "Ferry",
+        "Taxi",
+        "Tram"
+      ],
+      "explanationTR": "Diğerleri ulaşım aracı; martı bir kuş.",
+      "explanationEN": "The others are vehicles; a seagull is a bird.",
+      "sourceIds": []
+    },
+    {
+      "id": "K04",
+      "category": "Kelime",
+      "mechanicId": "F25",
+      "difficulty": 2,
+      "durationSeconds": 35,
+      "promptTR": "'KALEM' sözcüğünden bir harf çıkar, kalanlarla 'yüksek koruma duvarı olan yapı' sözcüğünü yaz.",
+      "promptEN": "Remove one letter from 'PLANET' and rearrange the rest to make 'a flat board in a door, or a group of judges'.",
+      "correctAnswerTR": "KALE",
+      "correctAnswerEN": "PANEL",
+      "distractorsTR": [
+        "ELMA",
+        "KEMA",
+        "LAKE"
+      ],
+      "distractorsEN": [
+        "PLANT",
+        "PLATE",
+        "LEANT"
+      ],
+      "explanationTR": "M çıkınca KALE kalır.",
+      "explanationEN": "Remove T: P-L-A-N-E rearranges to PANEL.",
+      "sourceIds": []
+    },
+    {
+      "id": "O21",
+      "category": "Cikarim",
+      "mechanicId": "F33",
+      "difficulty": 0,
+      "durationSeconds": 35,
+      "promptTR": "Arka koltuklar sol, orta ve sağ. Sol ve sağ pencere kenarı. Ece sağda oturacak. Ali pencere istiyor. Bora kalan koltuğa oturacak. Ortada kim var?",
+      "promptEN": "Back seats: left, middle, right. Left and right are window seats. Ece sits on the right. Ali wants a window. Bora takes what's left. Who sits in the middle?",
+      "correctAnswerTR": "Bora",
+      "correctAnswerEN": "Bora",
+      "distractorsTR": [
+        "Ali",
+        "Ece",
+        "Kimse"
+      ],
+      "distractorsEN": [
+        "Ali",
+        "Ece",
+        "Nobody"
+      ],
+      "explanationTR": "Sağ Ece'ye ayrılınca Ali sola oturur; ortada Bora kalır.",
+      "explanationEN": "With Ece on the right, Ali takes the left window; Bora gets the middle.",
+      "sourceIds": [
+        "S06"
+      ]
+    },
+    {
+      "id": "O23",
+      "category": "Cikarim",
+      "mechanicId": "F37",
+      "difficulty": 2,
+      "durationSeconds": 50,
+      "promptTR": "Anahtar A, B veya C kutusunda. A: 'Anahtar bende.' B: 'Anahtar bende değil.' C: 'Anahtar A'da değil.' TAM BİR ifade doğru. Anahtar nerede?",
+      "promptEN": "The key is in box A, B or C. A: 'The key is in me.' B: 'The key is not in me.' C: 'The key is not in A.' EXACTLY ONE statement is true. Where is the key?",
+      "correctAnswerTR": "B",
+      "correctAnswerEN": "B",
+      "distractorsTR": [
+        "A",
+        "C",
+        "Hiçbiri"
+      ],
+      "distractorsEN": [
+        "A",
+        "C",
+        "None"
+      ],
+      "explanationTR": "A olursa iki doğru, C olursa iki doğru; yalnız B'de tek doğru (C'nin sözü) kalır.",
+      "explanationEN": "If A, two are true; if C, two are true; only B leaves exactly one true (C's).",
+      "sourceIds": [
+        "S10"
+      ]
+    },
+    {
+      "id": "O25",
+      "category": "Cikarim",
+      "mechanicId": "F34",
+      "difficulty": 1,
+      "durationSeconds": 40,
+      "promptTR": "Ada, Bora ve Cem'in şemsiye, keman ve kitaptan birer eşyası var. Ada'nınki ne şemsiye ne kitap. Bora'nınki kitap değil. Şemsiye kimin?",
+      "promptEN": "Ada, Bora and Cem each own one of: umbrella, violin, book. Ada's is neither the umbrella nor the book. Bora's is not the book. Whose is the umbrella?",
+      "correctAnswerTR": "Bora",
+      "correctAnswerEN": "Bora",
+      "distractorsTR": [
+        "Ada",
+        "Cem",
+        "Belli değil"
+      ],
+      "distractorsEN": [
+        "Ada",
+        "Cem",
+        "Can't tell"
+      ],
+      "explanationTR": "Ada kemanı alır; Bora kitap alamaz, şemsiye Bora'nındır.",
+      "explanationEN": "Ada has the violin; Bora can't have the book, so the umbrella is Bora's.",
+      "sourceIds": [
+        "S09"
+      ]
+    },
+    {
+      "id": "C01",
+      "category": "Cikarim",
+      "mechanicId": "F37",
+      "difficulty": 1,
+      "durationSeconds": 40,
+      "promptTR": "Üç yolcudan biri hep doğru söylüyor. Doğrucu aşağıdakilerden hangisini ASLA söyleyemez?",
+      "promptEN": "Of three passengers, one always tells the truth. Which statement can the truth-teller never say?",
+      "correctAnswerTR": "'Ben yalancıyım.'",
+      "correctAnswerEN": "'I am a liar.'",
+      "distractorsTR": [
+        "'Hava güzel.'",
+        "'Taksi sarı.'",
+        "'Deniz mavi.'"
+      ],
+      "distractorsEN": [
+        "'The weather is nice.'",
+        "'The taxi is yellow.'",
+        "'The sea is blue.'"
+      ],
+      "explanationTR": "Doğrucu kendisi hakkında yalan söyleyemez.",
+      "explanationEN": "A truth-teller can't lie about themselves.",
+      "sourceIds": []
+    },
+    {
+      "id": "C02",
+      "category": "Cikarim",
+      "mechanicId": "F36",
+      "difficulty": 2,
+      "durationSeconds": 50,
+      "promptTR": "Dört taksi sırada. Sarı en başta. Kırmızı mavinin hemen arkasında. Yeşil en sonda değil. Sıralama ne?",
+      "promptEN": "Four taxis in a row. Yellow is first. Red is right behind blue. Green is not last. What is the order?",
+      "correctAnswerTR": "Sarı, yeşil, mavi, kırmızı",
+      "correctAnswerEN": "Yellow, green, blue, red",
+      "distractorsTR": [
+        "Sarı, mavi, kırmızı, yeşil",
+        "Sarı, kırmızı, mavi, yeşil",
+        "Sarı, mavi, yeşil, kırmızı"
+      ],
+      "distractorsEN": [
+        "Yellow, blue, red, green",
+        "Yellow, red, blue, green",
+        "Yellow, blue, green, red"
+      ],
+      "explanationTR": "Mavi-kırmızı bitişik olmalı ve yeşil sonda olamaz: yeşil ikinci, mavi üçüncü, kırmızı dördüncü.",
+      "explanationEN": "Blue–red must be adjacent and green can't be last: green 2nd, blue 3rd, red 4th.",
+      "sourceIds": []
+    },
+    {
+      "id": "O26",
+      "category": "Gozlem",
+      "mechanicId": "F41",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "Önce: solda kırmızı fincan, ortada iki simit, sağda yeşil kutu. Sonra: solda mavi fincan, ortada iki simit, sağda yeşil kutu. Ne değişti?",
+      "promptEN": "Before: red cup on the left, two bagels in the middle, green box on the right. After: blue cup, two bagels, green box. What changed?",
+      "correctAnswerTR": "Fincanın rengi",
+      "correctAnswerEN": "The cup's colour",
+      "distractorsTR": [
+        "Simit sayısı",
+        "Kutunun rengi",
+        "Hiçbir şey"
+      ],
+      "distractorsEN": [
+        "The number of bagels",
+        "The box's colour",
+        "Nothing"
+      ],
+      "explanationTR": "Yalnız fincan kırmızıdan maviye döndü.",
+      "explanationEN": "Only the cup changed from red to blue.",
+      "sourceIds": [
+        "S09"
+      ]
+    },
+    {
+      "id": "O28",
+      "category": "Gozlem",
+      "mechanicId": "F43",
+      "difficulty": 0,
+      "durationSeconds": 30,
+      "promptTR": "Rafta soldan sağa şapka, kitap, çiçek var. Karşıdaki düz aynada soldan sağa ne görünür?",
+      "promptEN": "On a shelf, left to right: hat, book, flower. In a flat mirror facing it, what do you see left to right?",
+      "correctAnswerTR": "Çiçek, kitap, şapka",
+      "correctAnswerEN": "Flower, book, hat",
+      "distractorsTR": [
+        "Şapka, kitap, çiçek",
+        "Kitap, şapka, çiçek",
+        "Çiçek, şapka, kitap"
+      ],
+      "distractorsEN": [
+        "Hat, book, flower",
+        "Book, hat, flower",
+        "Flower, hat, book"
+      ],
+      "explanationTR": "Ayna yatay sırayı ters çevirir.",
+      "explanationEN": "The mirror reverses the left-right order.",
+      "sourceIds": [
+        "S13"
+      ]
+    },
+    {
+      "id": "O30",
+      "category": "Gozlem",
+      "mechanicId": "F48",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "Altı numaralı taksi durağında 1, 2, 4 ve 6 dolu. EN BÜYÜK numaralı boş yer hangisi?",
+      "promptEN": "At a six-bay taxi rank, bays 1, 2, 4 and 6 are taken. Which is the HIGHEST-numbered free bay?",
+      "correctAnswerTR": "5",
+      "correctAnswerEN": "5",
+      "distractorsTR": [
+        "3",
+        "6",
+        "4"
+      ],
+      "distractorsEN": [
+        "3",
+        "6",
+        "4"
+      ],
+      "explanationTR": "Boş yerler 3 ve 5; en büyüğü 5.",
+      "explanationEN": "Free bays are 3 and 5; the highest is 5.",
+      "sourceIds": [
+        "S16"
+      ]
+    },
+    {
+      "id": "G01",
+      "category": "Gozlem",
+      "mechanicId": "F01",
+      "difficulty": 1,
+      "durationSeconds": 30,
+      "promptTR": "Bir küpün kaç yüzü vardır?",
+      "promptEN": "How many faces does a cube have?",
+      "correctAnswerTR": "6",
+      "correctAnswerEN": "6",
+      "distractorsTR": [
+        "4",
+        "8",
+        "12"
+      ],
+      "distractorsEN": [
+        "4",
+        "8",
+        "12"
+      ],
+      "explanationTR": "Küpün 6 yüzü, 12 ayrıtı, 8 köşesi vardır.",
+      "explanationEN": "A cube has 6 faces, 12 edges and 8 corners.",
+      "sourceIds": []
+    },
+    {
+      "id": "G02",
+      "category": "Gozlem",
+      "mechanicId": "F01",
+      "difficulty": 1,
+      "durationSeconds": 30,
+      "promptTR": "Saat tam 3:00. Akrep ile yelkovan arasındaki küçük açı kaç derece?",
+      "promptEN": "It's exactly 3:00. What is the smaller angle between the hour and minute hands?",
+      "correctAnswerTR": "90",
+      "correctAnswerEN": "90",
+      "distractorsTR": [
+        "45",
+        "120",
+        "180"
+      ],
+      "distractorsEN": [
+        "45",
+        "120",
+        "180"
+      ],
+      "explanationTR": "Her saat aralığı 30°; 3 aralık 90° eder.",
+      "explanationEN": "Each hour mark is 30°; three of them make 90°.",
+      "sourceIds": []
+    },
+    {
+      "id": "B01",
+      "category": "Bilmece",
+      "mechanicId": "F09",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "Karşında dururum; sen gülersen ben de gülerim, sen el sallarsan ben de sallarım. Neyim?",
+      "promptEN": "I stand in front of you; when you smile I smile, when you wave I wave. What am I?",
+      "correctAnswerTR": "Ayna",
+      "correctAnswerEN": "A mirror",
+      "distractorsTR": [
+        "Gölge",
+        "Resim",
+        "Pencere"
+      ],
+      "distractorsEN": [
+        "A shadow",
+        "A painting",
+        "A window"
+      ],
+      "explanationTR": "Ayna, karşısındakinin yüzünü ve hareketlerini aynen gösterir; gölgenin yüz ifadesi yoktur.",
+      "explanationEN": "A mirror shows your face and every move; a shadow has no smile.",
+      "sourceIds": []
+    },
+    {
+      "id": "B02",
+      "category": "Bilmece",
+      "mechanicId": "F09",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "Taksiye binince beni takarsın; bir ucum omzunda, bir ucum belinde durur.",
+      "promptEN": "When you get into the taxi you put me on; one end rests on your shoulder, the other at your hip.",
+      "correctAnswerTR": "Emniyet kemeri",
+      "correctAnswerEN": "A seatbelt",
+      "distractorsTR": [
+        "Kravat",
+        "Atkı",
+        "Çanta askısı"
+      ],
+      "distractorsEN": [
+        "A tie",
+        "A scarf",
+        "A bag strap"
+      ],
+      "explanationTR": "Emniyet kemeri omuzdan bele çapraz geçer ve binince takılır.",
+      "explanationEN": "A seatbelt runs from shoulder to hip and is put on when you get in.",
+      "sourceIds": []
+    },
+    {
+      "id": "B03",
+      "category": "Bilmece",
+      "mechanicId": "F09",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "Direğin tepesindeyim; gündüz uyurum, gece uyanır sokağı aydınlatırım. Neyim?",
+      "promptEN": "I live on top of a pole; I sleep by day and wake at night to light the street.",
+      "correctAnswerTR": "Sokak lambası",
+      "correctAnswerEN": "A street lamp",
+      "distractorsTR": [
+        "Ay",
+        "Baykuş",
+        "Deniz feneri"
+      ],
+      "distractorsEN": [
+        "The Moon",
+        "An owl",
+        "A lighthouse"
+      ],
+      "explanationTR": "Sokak lambası direğin üstündedir ve yalnız gece yanar.",
+      "explanationEN": "A street lamp sits on a pole and only shines at night.",
+      "sourceIds": []
+    },
+    {
+      "id": "B04",
+      "category": "Bilmece",
+      "mechanicId": "F09",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "Kuruladıkça ıslanırım. Neyim?",
+      "promptEN": "The more I dry, the wetter I get. What am I?",
+      "correctAnswerTR": "Havlu",
+      "correctAnswerEN": "A towel",
+      "distractorsTR": [
+        "Sünger",
+        "Şemsiye",
+        "Sabun"
+      ],
+      "distractorsEN": [
+        "A sponge",
+        "An umbrella",
+        "Soap"
+      ],
+      "explanationTR": "Havlu sizi kuruladıkça kendisi ıslanır.",
+      "explanationEN": "A towel gets wetter as it dries you.",
+      "sourceIds": []
+    },
+    {
+      "id": "B05",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 1,
+      "durationSeconds": 30,
+      "promptTR": "Adımı söylediğin an beni bozarsın. Neyim?",
+      "promptEN": "The moment you say my name, you break me. What am I?",
+      "correctAnswerTR": "Sessizlik",
+      "correctAnswerEN": "Silence",
+      "distractorsTR": [
+        "Sır",
+        "Rüya",
+        "Gölge"
+      ],
+      "distractorsEN": [
+        "A secret",
+        "A dream",
+        "A shadow"
+      ],
+      "explanationTR": "Sessizlik, tek bir söz söylenince bozulur.",
+      "explanationEN": "Silence is broken by saying any word, even its name.",
+      "sourceIds": []
+    },
+    {
+      "id": "B06",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 1,
+      "durationSeconds": 30,
+      "promptTR": "Hep önündeyim ama beni hiç göremezsin. Neyim?",
+      "promptEN": "I am always ahead of you, yet you can never see me. What am I?",
+      "correctAnswerTR": "Gelecek",
+      "correctAnswerEN": "The future",
+      "distractorsTR": [
+        "Geçmiş",
+        "Gölge",
+        "Ayna"
+      ],
+      "distractorsEN": [
+        "The past",
+        "A shadow",
+        "A mirror"
+      ],
+      "explanationTR": "Gelecek hep önümüzdedir ama henüz görülemez.",
+      "explanationEN": "The future is always ahead and never yet visible.",
+      "sourceIds": []
+    },
+    {
+      "id": "B07",
+      "category": "Bilmece",
+      "mechanicId": "F09",
+      "difficulty": 1,
+      "durationSeconds": 30,
+      "promptTR": "Taksinin tavanında dururum; üzerimde büyük harflerle TAKSİ yazar, geceleri ışığım yanar. Neyim?",
+      "promptEN": "I sit on the taxi's roof; TAXI is written on me in big letters and I glow at night. What am I?",
+      "correctAnswerTR": "Taksi lambası",
+      "correctAnswerEN": "The taxi roof sign",
+      "distractorsTR": [
+        "Plaka",
+        "Taksimetre",
+        "Anten"
+      ],
+      "distractorsEN": [
+        "The number plate",
+        "The meter",
+        "The aerial"
+      ],
+      "explanationTR": "Tavandaki ışıklı TAKSİ levhası, aracın taksi olduğunu uzaktan gösterir.",
+      "explanationEN": "The lit TAXI sign on the roof shows from afar that the car is a taxi.",
+      "sourceIds": []
+    },
+    {
+      "id": "B08",
+      "category": "Bilmece",
+      "mechanicId": "F09",
+      "difficulty": 1,
+      "durationSeconds": 30,
+      "promptTR": "Başımı açtıkça kısalırım, yazdıkça arkamda iz bırakırım. Neyim?",
+      "promptEN": "The more you sharpen my head, the shorter I get; I leave a trail as I write.",
+      "correctAnswerTR": "Kurşun kalem",
+      "correctAnswerEN": "A pencil",
+      "distractorsTR": [
+        "Mum",
+        "Tebeşir",
+        "Silgi"
+      ],
+      "distractorsEN": [
+        "A candle",
+        "Chalk",
+        "An eraser"
+      ],
+      "explanationTR": "Kurşun kalem açıldıkça kısalır; tebeşir açılmaz, mum yazı yazmaz.",
+      "explanationEN": "A pencil shortens when sharpened; chalk isn't sharpened and a candle doesn't write.",
+      "sourceIds": []
+    },
+    {
+      "id": "B09",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Bir baba ile oğlu kaza geçirir. Hastanedeki cerrah çocuğu görünce 'Ameliyat edemem, bu benim oğlum' der. Bu nasıl olabilir?",
+      "promptEN": "A father and son have an accident. At the hospital the surgeon says, 'I can't operate, he's my son.' How is that possible?",
+      "correctAnswerTR": "Cerrah çocuğun annesidir",
+      "correctAnswerEN": "The surgeon is his mother",
+      "distractorsTR": [
+        "Cerrah yanılıyordur",
+        "Çocuk evlatlıktır",
+        "Baba aslında cerrahtır"
+      ],
+      "distractorsEN": [
+        "The surgeon is mistaken",
+        "The boy is adopted",
+        "The father is the surgeon"
+      ],
+      "explanationTR": "Cerrahın erkek olduğunu kimse söylemedi: cerrah çocuğun annesidir.",
+      "explanationEN": "Nobody said the surgeon was a man: the surgeon is the boy's mother.",
+      "sourceIds": []
+    },
+    {
+      "id": "B10",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Bir adam yağmurda şapkasız, şemsiyesiz yürüdü. Giysileri sırılsıklam oldu ama tek bir saç teli ıslanmadı. Neden?",
+      "promptEN": "A man walked in the rain with no hat or umbrella. His clothes were soaked, yet not a single hair got wet. Why?",
+      "correctAnswerTR": "Saçı yoktu",
+      "correctAnswerEN": "He was bald",
+      "distractorsTR": [
+        "Yağmur hafifti",
+        "Kısa yürüdü",
+        "Saçı yağlıydı"
+      ],
+      "distractorsEN": [
+        "It was light rain",
+        "It was a short walk",
+        "His hair was oily"
+      ],
+      "explanationTR": "Saçı olmayan birinin saçı ıslanamaz.",
+      "explanationEN": "If you have no hair, no hair can get wet.",
+      "sourceIds": []
+    },
+    {
+      "id": "B11",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Sabah dört ayakla, öğlen iki ayakla, akşam üç ayakla yürür. Nedir?",
+      "promptEN": "It walks on four legs in the morning, two at noon and three in the evening. What is it?",
+      "correctAnswerTR": "İnsan",
+      "correctAnswerEN": "A human",
+      "distractorsTR": [
+        "Kedi",
+        "Kaplumbağa",
+        "Masa"
+      ],
+      "distractorsEN": [
+        "A cat",
+        "A tortoise",
+        "A table"
+      ],
+      "explanationTR": "Bebekken emekler, büyüyünce iki ayakla yürür, yaşlanınca bastona dayanır.",
+      "explanationEN": "A baby crawls, an adult walks on two legs, an old person uses a cane.",
+      "sourceIds": []
+    },
+    {
+      "id": "B12",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "Ondan ne kadar çok alırsan o kadar büyür. Nedir?",
+      "promptEN": "The more you take from it, the bigger it gets. What is it?",
+      "correctAnswerTR": "Çukur",
+      "correctAnswerEN": "A hole",
+      "distractorsTR": [
+        "Pasta",
+        "Kuyruk",
+        "Su"
+      ],
+      "distractorsEN": [
+        "A cake",
+        "A queue",
+        "Water"
+      ],
+      "explanationTR": "Çukurdan toprak aldıkça çukur büyür.",
+      "explanationEN": "The more earth you take out of a hole, the bigger it gets.",
+      "sourceIds": []
+    },
+    {
+      "id": "B13",
+      "category": "Bilmece",
+      "mechanicId": "F09",
+      "difficulty": 1,
+      "durationSeconds": 30,
+      "promptTR": "Paylaşınca artık ben olmam. Neyim?",
+      "promptEN": "Once you share me, I'm no longer what I was. What am I?",
+      "correctAnswerTR": "Sır",
+      "correctAnswerEN": "A secret",
+      "distractorsTR": [
+        "Ekmek",
+        "Bilgi",
+        "Mutluluk"
+      ],
+      "distractorsEN": [
+        "Bread",
+        "Knowledge",
+        "Happiness"
+      ],
+      "explanationTR": "Bir sır paylaşıldığında artık sır değildir.",
+      "explanationEN": "A secret stops being a secret once shared.",
+      "sourceIds": []
+    },
+    {
+      "id": "B14",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 1,
+      "durationSeconds": 30,
+      "promptTR": "Hep gelecek denir ama hiç gelmez. Nedir?",
+      "promptEN": "It is always coming but never arrives. What is it?",
+      "correctAnswerTR": "Yarın",
+      "correctAnswerEN": "Tomorrow",
+      "distractorsTR": [
+        "Otobüs",
+        "Bahar",
+        "Misafir"
+      ],
+      "distractorsEN": [
+        "The bus",
+        "Spring",
+        "A guest"
+      ],
+      "explanationTR": "Yarın geldiğinde adı bugün olur.",
+      "explanationEN": "When tomorrow arrives, it's called today.",
+      "sourceIds": []
+    },
+    {
+      "id": "B15",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Bir taksi şoförü tek yönlü bir caddede ters yöne gidiyor. Polis onu görüyor ama hiçbir şey demiyor. Neden?",
+      "promptEN": "A taxi driver goes the wrong way down a one-way street. A police officer sees him but does nothing. Why?",
+      "correctAnswerTR": "Şoför yürüyordu",
+      "correctAnswerEN": "The driver was walking",
+      "distractorsTR": [
+        "Polis tatildeydi",
+        "Yol kapalıydı",
+        "Gece yarısıydı"
+      ],
+      "distractorsEN": [
+        "The officer was on holiday",
+        "The road was closed",
+        "It was midnight"
+      ],
+      "explanationTR": "Şoförün araba kullandığı söylenmedi; yaya olarak yürüyordu.",
+      "explanationEN": "Nobody said he was driving; he was on foot.",
+      "sourceIds": []
+    },
+    {
+      "id": "B16",
+      "category": "Bilmece",
+      "mechanicId": "F09",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "Yolun kenarında dururum; kırmızı yakınca bekletir, yeşil yakınca geçiririm. Neyim?",
+      "promptEN": "I stand by the road; red makes you wait and green lets you go. What am I?",
+      "correctAnswerTR": "Trafik lambası",
+      "correctAnswerEN": "A traffic light",
+      "distractorsTR": [
+        "Trafik polisi",
+        "Durak tabelası",
+        "Yaya geçidi"
+      ],
+      "distractorsEN": [
+        "A traffic officer",
+        "A bus-stop sign",
+        "A zebra crossing"
+      ],
+      "explanationTR": "Kırmızı ve yeşil ışıkla trafiği yöneten trafik lambasıdır.",
+      "explanationEN": "A traffic light controls traffic with red and green.",
+      "sourceIds": []
+    },
+    {
+      "id": "B17",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 1,
+      "durationSeconds": 30,
+      "promptTR": "Senin olan, ama başkalarının senden çok daha sık kullandığı şey nedir?",
+      "promptEN": "What belongs to you but is used far more by other people?",
+      "correctAnswerTR": "Adın",
+      "correctAnswerEN": "Your name",
+      "distractorsTR": [
+        "Paran",
+        "Saatin",
+        "Telefonun"
+      ],
+      "distractorsEN": [
+        "Your money",
+        "Your watch",
+        "Your phone"
+      ],
+      "explanationTR": "Adın senindir ama onu en çok başkaları söyler.",
+      "explanationEN": "Your name is yours, but others say it far more than you do.",
+      "sourceIds": []
+    },
+    {
+      "id": "B18",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 1,
+      "durationSeconds": 30,
+      "promptTR": "Ne kadar çok olursa o kadar az görürsün. Nedir?",
+      "promptEN": "The more of it there is, the less you see. What is it?",
+      "correctAnswerTR": "Karanlık",
+      "correctAnswerEN": "Darkness",
+      "distractorsTR": [
+        "Işık",
+        "Gölge",
+        "Ayna"
+      ],
+      "distractorsEN": [
+        "Light",
+        "A shadow",
+        "A mirror"
+      ],
+      "explanationTR": "Karanlık arttıkça görüş azalır.",
+      "explanationEN": "The more darkness, the less you can see.",
+      "sourceIds": []
+    },
+    {
+      "id": "B19",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 2,
+      "durationSeconds": 60,
+      "promptTR": "Kapalı bir odada tek ampul var; üç anahtar ise odanın dışında. İçeri yalnızca bir kez girebilirsin. Hangi anahtarın ampulü yaktığını nasıl kesin anlarsın?",
+      "promptEN": "A closed room has one bulb; three switches are outside. You may enter only once. How do you find the bulb's switch for sure?",
+      "correctAnswerTR": "Birini birkaç dakika açık tut, kapat, ikinciyi açıp gir; ışığa ve ampulün sıcaklığına bak",
+      "correctAnswerEN": "Leave one on for a few minutes, switch it off, switch on the second and go in: check the light and the bulb's warmth",
+      "distractorsTR": [
+        "Üç anahtarı birden açıp gir",
+        "Anahtarları sırayla açıp kapının altından ışığa bak",
+        "Bir kez girerek anlamak mümkün değil"
+      ],
+      "distractorsEN": [
+        "Turn all three on and go in",
+        "Try each switch and look for light under the door",
+        "It can't be done with one visit"
+      ],
+      "explanationTR": "Yanıyorsa ikinci; sönük ama sıcaksa birinci; sönük ve soğuksa üçüncü anahtardır.",
+      "explanationEN": "Lit means the second switch, off but warm means the first, off and cold means the third.",
+      "sourceIds": []
+    },
+    {
+      "id": "B20",
+      "category": "Bilmece",
+      "mechanicId": "F09",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "Dişlerim var ama ısırmam; saçları düzeltirim. Neyim?",
+      "promptEN": "I have teeth but never bite; I tidy your hair. What am I?",
+      "correctAnswerTR": "Tarak",
+      "correctAnswerEN": "A comb",
+      "distractorsTR": [
+        "Kaşık",
+        "Fırça",
+        "Makas"
+      ],
+      "distractorsEN": [
+        "A spoon",
+        "A brush",
+        "Scissors"
+      ],
+      "explanationTR": "Tarağın dişleri saçı düzeltir.",
+      "explanationEN": "A comb's teeth tidy your hair.",
+      "sourceIds": []
+    },
+    {
+      "id": "K10",
+      "category": "Kelime",
+      "mechanicId": "F13",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "Hem geceleri gökyüzünde parlar, hem de yılın on ikide biridir. Hangi sözcük?",
+      "promptEN": "Which word means both a season and a metal coil that springs back?",
+      "correctAnswerTR": "AY",
+      "correctAnswerEN": "SPRING",
+      "distractorsTR": [
+        "GÜN",
+        "YIL",
+        "YILDIZ"
+      ],
+      "distractorsEN": [
+        "SUMMER",
+        "RING",
+        "COIL"
+      ],
+      "explanationTR": "AY: gökyüzündeki Ay ve takvimdeki ay.",
+      "explanationEN": "SPRING: the season and the bouncy coil.",
+      "sourceIds": []
+    },
+    {
+      "id": "K11",
+      "category": "Kelime",
+      "mechanicId": "F13",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "Hem içtiğimiz sıcak bir içecek, hem de küçük bir akarsu. Hangi sözcük?",
+      "promptEN": "Which word is both a tree's outer covering and the sound a dog makes?",
+      "correctAnswerTR": "ÇAY",
+      "correctAnswerEN": "BARK",
+      "distractorsTR": [
+        "DERE",
+        "KAHVE",
+        "IRMAK"
+      ],
+      "distractorsEN": [
+        "LEAF",
+        "WOOF",
+        "ROOT"
+      ],
+      "explanationTR": "ÇAY: demlenen içecek ve küçük akarsu.",
+      "explanationEN": "BARK: a tree's skin and a dog's sound.",
+      "sourceIds": []
+    },
+    {
+      "id": "K12",
+      "category": "Kelime",
+      "mechanicId": "F13",
+      "difficulty": 1,
+      "durationSeconds": 30,
+      "promptTR": "Hem güzel kokulu bir çiçek, hem de 'kahkaha at' demek. Hangi sözcük?",
+      "promptEN": "Which word is both a hard-shelled fruit and a small metal part screwed onto a bolt?",
+      "correctAnswerTR": "GÜL",
+      "correctAnswerEN": "NUT",
+      "distractorsTR": [
+        "LALE",
+        "GÜLÜMSE",
+        "SÜMBÜL"
+      ],
+      "distractorsEN": [
+        "SEED",
+        "BOLT",
+        "PIT"
+      ],
+      "explanationTR": "GÜL: bir çiçek ve 'gülmek' fiilinin emri.",
+      "explanationEN": "NUT: a fruit and the part on a bolt.",
+      "sourceIds": []
+    },
+    {
+      "id": "K13",
+      "category": "Kelime",
+      "mechanicId": "F13",
+      "difficulty": 1,
+      "durationSeconds": 30,
+      "promptTR": "Hem ağzımızdaki organ, hem de konuştuğumuz Türkçe gibi bir iletişim sistemi. Hangi sözcük?",
+      "promptEN": "Which word is both a flying mammal and what you hit the ball with in cricket?",
+      "correctAnswerTR": "DİL",
+      "correctAnswerEN": "BAT",
+      "distractorsTR": [
+        "AĞIZ",
+        "SÖZ",
+        "LİSAN"
+      ],
+      "distractorsEN": [
+        "BALL",
+        "RACKET",
+        "OWL"
+      ],
+      "explanationTR": "DİL: tat alma organı ve konuşulan dil. LİSAN organ değildir.",
+      "explanationEN": "BAT: the animal and the cricket bat.",
+      "sourceIds": []
+    },
+    {
+      "id": "K14",
+      "category": "Kelime",
+      "mechanicId": "F13",
+      "difficulty": 2,
+      "durationSeconds": 35,
+      "promptTR": "Hem yılın ilk ayı, hem de mutfakta yemeğin piştiği yer. Hangi sözcük?",
+      "promptEN": "Which word is both the season after summer and what happens when you trip?",
+      "correctAnswerTR": "OCAK",
+      "correctAnswerEN": "FALL",
+      "distractorsTR": [
+        "ŞUBAT",
+        "FIRIN",
+        "MANGAL"
+      ],
+      "distractorsEN": [
+        "AUTUMN",
+        "TRIP",
+        "DROP"
+      ],
+      "explanationTR": "OCAK: ocak ayı ve yemek pişirilen ocak.",
+      "explanationEN": "FALL: the season and falling down.",
+      "sourceIds": []
+    },
+    {
+      "id": "K15",
+      "category": "Kelime",
+      "mechanicId": "F25",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "'TOP' tabelasındaki tek harfi değiştir: 'havada uçuşan çok ince toprak parçacıkları' olsun.",
+      "promptEN": "Change one letter of 'BOAT' to get 'a warm piece of outerwear'.",
+      "correctAnswerTR": "TOZ",
+      "correctAnswerEN": "COAT",
+      "distractorsTR": [
+        "TON",
+        "TOK",
+        "KOP"
+      ],
+      "distractorsEN": [
+        "BOOT",
+        "GOAT",
+        "BEAT"
+      ],
+      "explanationTR": "TOP → TOZ: son harf P → Z.",
+      "explanationEN": "BOAT → COAT: first letter B → C.",
+      "sourceIds": []
+    },
+    {
+      "id": "K16",
+      "category": "Kelime",
+      "mechanicId": "F25",
+      "difficulty": 1,
+      "durationSeconds": 30,
+      "promptTR": "'DERE' sözcüğündeki tek harfi değiştir: 'vücudumuzu saran örtü' olsun.",
+      "promptEN": "Change one letter of 'COLD' to get 'a precious yellow metal'.",
+      "correctAnswerTR": "DERİ",
+      "correctAnswerEN": "GOLD",
+      "distractorsTR": [
+        "DERS",
+        "TERE",
+        "DEVE"
+      ],
+      "distractorsEN": [
+        "BOLD",
+        "HOLD",
+        "COLT"
+      ],
+      "explanationTR": "DERE → DERİ: son harf E → İ.",
+      "explanationEN": "COLD → GOLD: first letter C → G.",
+      "sourceIds": []
+    },
+    {
+      "id": "K17",
+      "category": "Kelime",
+      "mechanicId": "F28",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "'Kel Mahmut taksiye bindi.' cümlesinde boşlukları yok say. İki sözcüğün sınırında saklanan meyveyi bul.",
+      "promptEN": "Ignore the spaces in 'The cliff I go to is high.' Find the fruit hidden across two words.",
+      "correctAnswerTR": "ELMA",
+      "correctAnswerEN": "FIG",
+      "distractorsTR": [
+        "ARMUT",
+        "ERİK",
+        "KAVUN"
+      ],
+      "distractorsEN": [
+        "PEAR",
+        "PLUM",
+        "LIME"
+      ],
+      "explanationTR": "k-EL MA-hmut: ELMA.",
+      "explanationEN": "clif-F I G-o: FIG.",
+      "sourceIds": []
+    },
+    {
+      "id": "K18",
+      "category": "Kelime",
+      "mechanicId": "F28",
+      "difficulty": 2,
+      "durationSeconds": 40,
+      "promptTR": "'Ocaktaki tava puro gibi tütüyordu.' cümlesinde boşlukları yok say. İki sözcüğün sınırında saklanan ulaşım aracını bul.",
+      "promptEN": "Ignore the spaces in 'The tax is too high.' Find the vehicle hidden across two words.",
+      "correctAnswerTR": "VAPUR",
+      "correctAnswerEN": "TAXI",
+      "distractorsTR": [
+        "TAKSİ",
+        "METRO",
+        "TREN"
+      ],
+      "distractorsEN": [
+        "TRAM",
+        "BUS",
+        "VAN"
+      ],
+      "explanationTR": "ta-VA PUR-o: VAPUR.",
+      "explanationEN": "TAX I-s: TAXI.",
+      "sourceIds": []
+    },
+    {
+      "id": "S10",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "Hangisi bir memelidir?",
+      "promptEN": "Which of these is a mammal?",
+      "correctAnswerTR": "Yunus",
+      "correctAnswerEN": "Dolphin",
+      "distractorsTR": [
+        "Köpekbalığı",
+        "Ahtapot",
+        "Kaplumbağa"
+      ],
+      "distractorsEN": [
+        "Shark",
+        "Octopus",
+        "Turtle"
+      ],
+      "explanationTR": "Yunuslar akciğerle nefes alır ve yavrularını sütle besler.",
+      "explanationEN": "Dolphins breathe air with lungs and feed their young milk.",
+      "sourceIds": []
+    },
+    {
+      "id": "S11",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "Bitkilerin güneş ışığıyla kendi besinini üretmesine ne ad verilir?",
+      "promptEN": "What is it called when plants make their own food using sunlight?",
+      "correctAnswerTR": "Fotosentez",
+      "correctAnswerEN": "Photosynthesis",
+      "distractorsTR": [
+        "Solunum",
+        "Sindirim",
+        "Buharlaşma"
+      ],
+      "distractorsEN": [
+        "Respiration",
+        "Digestion",
+        "Evaporation"
+      ],
+      "explanationTR": "Fotosentezde bitkiler ışık, su ve karbondioksitle şeker üretir.",
+      "explanationEN": "In photosynthesis plants use light, water and carbon dioxide to make sugar.",
+      "sourceIds": []
+    },
+    {
+      "id": "S12",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 0,
+      "durationSeconds": 20,
+      "promptTR": "Dünya'nın tek doğal uydusu hangisidir?",
+      "promptEN": "What is Earth's only natural satellite?",
+      "correctAnswerTR": "Ay",
+      "correctAnswerEN": "The Moon",
+      "distractorsTR": [
+        "Mars",
+        "Güneş",
+        "Venüs"
+      ],
+      "distractorsEN": [
+        "Mars",
+        "The Sun",
+        "Venus"
+      ],
+      "explanationTR": "Ay, Dünya'nın çevresinde dönen tek doğal uydudur.",
+      "explanationEN": "The Moon is the only natural body orbiting Earth.",
+      "sourceIds": []
+    },
+    {
+      "id": "S13",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 0,
+      "durationSeconds": 20,
+      "promptTR": "Saf su deniz seviyesinde kaç °C'de donar?",
+      "promptEN": "At sea level, at what temperature does pure water freeze?",
+      "correctAnswerTR": "0 °C",
+      "correctAnswerEN": "0 °C",
+      "distractorsTR": [
+        "10 °C",
+        "-10 °C",
+        "4 °C"
+      ],
+      "distractorsEN": [
+        "10 °C",
+        "-10 °C",
+        "4 °C"
+      ],
+      "explanationTR": "Saf su deniz seviyesinde 0 °C'de donar, 100 °C'de kaynar.",
+      "explanationEN": "Pure water freezes at 0 °C and boils at 100 °C at sea level.",
+      "sourceIds": []
+    },
+    {
+      "id": "S14",
+      "category": "Soru",
+      "mechanicId": "F07",
+      "difficulty": 1,
+      "durationSeconds": 30,
+      "promptTR": "İnsan vücudunun en büyük organı hangisidir?",
+      "promptEN": "What is the largest organ of the human body?",
+      "correctAnswerTR": "Deri",
+      "correctAnswerEN": "Skin",
+      "distractorsTR": [
+        "Karaciğer",
+        "Akciğer",
+        "Beyin"
+      ],
+      "distractorsEN": [
+        "Liver",
+        "Lung",
+        "Brain"
+      ],
+      "explanationTR": "Deri tüm vücudu kaplar; en büyük organdır. İç organların en büyüğü karaciğerdir.",
+      "explanationEN": "Skin covers the whole body; the largest internal organ is the liver.",
+      "sourceIds": []
+    },
+    {
+      "id": "S15",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "Güneş Sistemi'nin en büyük gezegeni hangisidir?",
+      "promptEN": "Which is the largest planet in the Solar System?",
+      "correctAnswerTR": "Jüpiter",
+      "correctAnswerEN": "Jupiter",
+      "distractorsTR": [
+        "Satürn",
+        "Neptün",
+        "Dünya"
+      ],
+      "distractorsEN": [
+        "Saturn",
+        "Neptune",
+        "Earth"
+      ],
+      "explanationTR": "Jüpiter, öteki tüm gezegenlerin toplamından daha büyük kütlelidir.",
+      "explanationEN": "Jupiter has more mass than all the other planets combined.",
+      "sourceIds": []
+    },
+    {
+      "id": "S16",
+      "category": "Soru",
+      "mechanicId": "F07",
+      "difficulty": 1,
+      "durationSeconds": 25,
+      "promptTR": "Bir karıncanın kaç bacağı vardır?",
+      "promptEN": "How many legs does an ant have?",
+      "correctAnswerTR": "6",
+      "correctAnswerEN": "6",
+      "distractorsTR": [
+        "8",
+        "4",
+        "10"
+      ],
+      "distractorsEN": [
+        "8",
+        "4",
+        "10"
+      ],
+      "explanationTR": "Karınca bir böcektir; böceklerin 6 bacağı vardır. 8 bacak örümceklere aittir.",
+      "explanationEN": "An ant is an insect, and insects have 6 legs; 8 legs belong to spiders.",
+      "sourceIds": []
+    },
+    {
+      "id": "S17",
+      "category": "Soru",
+      "mechanicId": "F02",
+      "difficulty": 2,
+      "durationSeconds": 35,
+      "promptTR": "Ses en hızlı hangi ortamda yayılır?",
+      "promptEN": "In which medium does sound travel fastest?",
+      "correctAnswerTR": "Çelik",
+      "correctAnswerEN": "Steel",
+      "distractorsTR": [
+        "Su",
+        "Hava",
+        "Boşluk"
+      ],
+      "distractorsEN": [
+        "Water",
+        "Air",
+        "Vacuum"
+      ],
+      "explanationTR": "Ses katılarda sıvılardan, sıvılarda gazlardan hızlı yayılır; boşlukta hiç yayılmaz.",
+      "explanationEN": "Sound is fastest in solids, then liquids, then gases, and cannot cross a vacuum.",
+      "sourceIds": []
+    },
+    {
+      "id": "S18",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 2,
+      "durationSeconds": 40,
+      "promptTR": "Gündüz gökyüzü neden mavi görünür?",
+      "promptEN": "Why does the daytime sky look blue?",
+      "correctAnswerTR": "Mavi ışık havada daha çok saçılır",
+      "correctAnswerEN": "Blue light scatters more in the air",
+      "distractorsTR": [
+        "Deniz gökyüzüne yansır",
+        "Hava mavi renklidir",
+        "Güneş yalnız mavi ışık verir"
+      ],
+      "distractorsEN": [
+        "The sea reflects onto the sky",
+        "Air is blue",
+        "The Sun gives off only blue light"
+      ],
+      "explanationTR": "Güneş ışığındaki kısa dalga boylu mavi ışık, havadaki moleküllerce en çok saçılır.",
+      "explanationEN": "Short-wavelength blue sunlight is scattered most by air molecules.",
+      "sourceIds": []
+    },
+    {
+      "id": "S19",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 1,
+      "durationSeconds": 30,
+      "promptTR": "İstanbul Boğazı hangi iki denizi birbirine bağlar?",
+      "promptEN": "Which two seas does the Bosphorus connect?",
+      "correctAnswerTR": "Karadeniz ve Marmara",
+      "correctAnswerEN": "Black Sea and Sea of Marmara",
+      "distractorsTR": [
+        "Ege ve Akdeniz",
+        "Marmara ve Ege",
+        "Karadeniz ve Akdeniz"
+      ],
+      "distractorsEN": [
+        "Aegean and Mediterranean",
+        "Marmara and Aegean",
+        "Black Sea and Mediterranean"
+      ],
+      "explanationTR": "Boğaz kuzeyde Karadeniz'i güneyde Marmara Denizi'ne bağlar.",
+      "explanationEN": "The Bosphorus links the Black Sea in the north with the Sea of Marmara in the south.",
+      "sourceIds": []
+    },
+    {
+      "id": "S20",
+      "category": "Soru",
+      "mechanicId": "F07",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Dünya'dan Ay'ın hep aynı yüzünü görürüz. Neden?",
+      "promptEN": "We always see the same side of the Moon from Earth. Why?",
+      "correctAnswerTR": "Ay kendi çevresinde bir turu, Dünya çevresindeki turuyla aynı sürede atar",
+      "correctAnswerEN": "The Moon spins once in the same time it takes to orbit Earth",
+      "distractorsTR": [
+        "Ay hiç dönmez",
+        "Dünya'nın gölgesi öbür yüzü saklar",
+        "Ay'ın öbür yüzü hep karanlıktır"
+      ],
+      "distractorsEN": [
+        "The Moon doesn't spin",
+        "Earth's shadow hides the far side",
+        "The far side is always dark"
+      ],
+      "explanationTR": "Ay'ın dönüşü ile yörünge süresi eşittir; bu yüzden aynı yüzü bize döner. Öbür yüz de güneş alır.",
+      "explanationEN": "Its spin and orbit take the same time, so one face points at us; the far side gets sunlight too.",
+      "sourceIds": []
+    },
+    {
+      "id": "S21",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 0,
+      "durationSeconds": 20,
+      "promptTR": "Boyada hangi iki renk karışınca yeşil elde edilir?",
+      "promptEN": "Which two paint colours mix to make green?",
+      "correctAnswerTR": "Mavi ve sarı",
+      "correctAnswerEN": "Blue and yellow",
+      "distractorsTR": [
+        "Kırmızı ve mavi",
+        "Kırmızı ve sarı",
+        "Siyah ve beyaz"
+      ],
+      "distractorsEN": [
+        "Red and blue",
+        "Red and yellow",
+        "Black and white"
+      ],
+      "explanationTR": "Mavi ile sarı boya karışınca yeşil olur.",
+      "explanationEN": "Blue and yellow paint mix to green.",
+      "sourceIds": []
+    },
+    {
+      "id": "O11",
+      "category": "Hesap",
+      "mechanicId": "F18",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "200 liralık çantaya önce %20 zam, sonra yeni fiyat üzerinden %20 indirim yapılıyor. Son fiyat kaç liradır?",
+      "promptEN": "A 200-lira bag first gets a 20% increase, then a 20% discount on its new price. What is the final price?",
+      "correctAnswerTR": "192 lira",
+      "correctAnswerEN": "192 lira",
+      "distractorsTR": [
+        "200 lira",
+        "190 lira",
+        "220 lira"
+      ],
+      "distractorsEN": [
+        "200 lira",
+        "190 lira",
+        "220 lira"
+      ],
+      "explanationTR": "200 × 1,20 × 0,80 = 192. İki yüzde farklı tabanlara uygulanır.",
+      "explanationEN": "200 × 1.20 × 0.80 = 192. The two percentages apply to different base prices.",
+      "sourceIds": [
+        "S24"
+      ]
+    },
+    {
+      "id": "O12",
+      "category": "Hesap",
+      "mechanicId": "F19",
+      "difficulty": 2,
+      "durationSeconds": 50,
+      "promptTR": "Taksi 2 km’yi 30 km/sa hızla gidip aynı 2 km’yi 60 km/sa hızla dönüyor. Hiç durmuyor. Tüm yolun ortalama hızı kaçtır?",
+      "promptEN": "A taxi drives 2 km at 30 km/h and returns the same 2 km at 60 km/h without stopping. What is its average speed for the whole trip?",
+      "correctAnswerTR": "40 km/sa",
+      "correctAnswerEN": "40 km/h",
+      "distractorsTR": [
+        "45 km/sa",
+        "30 km/sa",
+        "60 km/sa"
+      ],
+      "distractorsEN": [
+        "45 km/h",
+        "30 km/h",
+        "60 km/h"
+      ],
+      "explanationTR": "Gidiş 4 dakika, dönüş 2 dakika sürer. 4 km / 0,1 saat = 40 km/sa.",
+      "explanationEN": "The outbound trip takes 4 minutes and the return takes 2. 4 km / 0.1 hour = 40 km/h.",
+      "sourceIds": [
+        "S27"
+      ]
+    },
+    {
+      "id": "O13",
+      "category": "Hesap",
+      "mechanicId": "F17",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "Açılış ücreti 24 lira, kilometre başına 6 lira. Bekleme ücreti yok. Sayaç 54 lira gösteriyorsa kaç kilometre gidilmiştir?",
+      "promptEN": "The meter starts at 24 lira and adds 6 lira per kilometre, with no waiting fee. If it shows 54 lira, how far has the taxi travelled?",
+      "correctAnswerTR": "5 km",
+      "correctAnswerEN": "5 km",
+      "distractorsTR": [
+        "4 km",
+        "6 km",
+        "9 km"
+      ],
+      "distractorsEN": [
+        "4 km",
+        "6 km",
+        "9 km"
+      ],
+      "explanationTR": "(54 − 24) / 6 = 5 km.",
+      "explanationEN": "(54 − 24) / 6 = 5 km.",
+      "sourceIds": [
+        "S24"
+      ]
+    },
+    {
+      "id": "O14",
+      "category": "Hesap",
+      "mechanicId": "F20",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Torbada bol miktarda kırmızı, mavi ve sarı jeton var. Bakmadan ve geri koymadan en az iki aynı renk jetonu kesin almak için en az kaç jeton çekmelisin?",
+      "promptEN": "A bag contains plenty of red, blue, and yellow tokens. Without looking or replacing any token, what is the fewest you must draw to guarantee at least two of the same color?",
+      "correctAnswerTR": "4",
+      "correctAnswerEN": "4",
+      "distractorsTR": [
+        "3",
+        "2",
+        "5"
+      ],
+      "distractorsEN": [
+        "3",
+        "2",
+        "5"
+      ],
+      "explanationTR": "İlk üç çekilişte üç rengin her biri gelebilir. Dördüncü jeton mutlaka bir rengi tekrarlar.",
+      "explanationEN": "The first three draws could contain one token of each color. The fourth must repeat a color.",
+      "sourceIds": [
+        "S27"
+      ]
+    },
+    {
+      "id": "O15",
+      "category": "Hesap",
+      "mechanicId": "F24",
+      "difficulty": 0,
+      "durationSeconds": 35,
+      "promptTR": "Saat 18:20. Vapur 18:35’te kalkıyor ve en geç 18:32’de limanda olmalısın. Sahil yolu 13, tünel 9, çarşı 16 dakika sürüyor. Hangi rota yetiştirir?",
+      "promptEN": "It is 18:20. The ferry leaves at 18:35, and you must reach the port by 18:32. The coastal road takes 13 minutes, the tunnel 9, and the bazaar route 16. Which route gets you there on time?",
+      "correctAnswerTR": "Tünel",
+      "correctAnswerEN": "Tunnel",
+      "distractorsTR": [
+        "Sahil yolu",
+        "Çarşı yolu",
+        "Hiçbiri"
+      ],
+      "distractorsEN": [
+        "Coastal road",
+        "Bazaar route",
+        "None"
+      ],
+      "explanationTR": "Tünel rotası 18:29’da varır. Sahil yolu 18:33, çarşı 18:36’da varır.",
+      "explanationEN": "The tunnel route arrives at 18:29. The coastal road arrives at 18:33 and the bazaar route at 18:36.",
+      "sourceIds": [
+        "S26",
+        "S23"
+      ]
+    },
+    {
+      "id": "O17",
+      "category": "Kelime",
+      "mechanicId": "F26",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "N, O, M, İ, L harflerini birer kez kullanarak “ekşi, sarı turunçgil” tanımına uyan sözcüğü oluştur.",
+      "promptEN": "Use each of the letters L, E, M, O, N once to form the word matching “a sour yellow citrus fruit.”",
+      "correctAnswerTR": "LİMON",
+      "correctAnswerEN": "LEMON",
+      "distractorsTR": [
+        "PORTAKAL",
+        "ELMA",
+        "GREYFURT"
+      ],
+      "distractorsEN": [
+        "ORANGE",
+        "APPLE",
+        "GRAPEFRUIT"
+      ],
+      "explanationTR": "Harfler birer kez kullanılarak LİMON oluşturulur.",
+      "explanationEN": "The letters can each be used once to form LEMON.",
+      "sourceIds": [
+        "S21"
+      ],
+      "puzzleKind": "Letters",
+      "lettersTR": "NOMİL",
+      "lettersEN": "NOMEL"
+    },
+    {
+      "id": "O22",
+      "category": "Cikarim",
+      "mechanicId": "F35",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Başlangıçta Ada kırmızı, Bora mavi, Cem sarı kutuda. Ada ile Bora kutularını takas ediyor; sonra Bora ile Cem takas ediyor. Kırmızı kutu en son kimde?",
+      "promptEN": "At first, Ada has the red box, Bora the blue box, and Cem the yellow box. Ada and Bora swap boxes, then Bora and Cem swap. Who ends up with the red box?",
+      "correctAnswerTR": "Cem",
+      "correctAnswerEN": "Cem",
+      "distractorsTR": [
+        "Ada",
+        "Bora",
+        "Hiç kimsede"
+      ],
+      "distractorsEN": [
+        "Ada",
+        "Bora",
+        "No one"
+      ],
+      "explanationTR": "İlk takasta kırmızı kutu Bora’ya, ikinci takasta Cem’e geçer.",
+      "explanationEN": "The first swap moves the red box to Bora; the second moves it to Cem.",
+      "sourceIds": [
+        "S20"
+      ]
+    },
+    {
+      "id": "O24",
+      "category": "Cikarim",
+      "mechanicId": "F36",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Dört yolcu sırayla geliyor. Ada, Deniz’den önce; Deniz, Bora’dan önce; Cem ise Bora’dan sonra geliyor. Üçüncü kim gelir?",
+      "promptEN": "Four passengers arrive in order. Ada arrives before Deniz, Deniz before Bora, and Cem after Bora. Who arrives third?",
+      "correctAnswerTR": "Bora",
+      "correctAnswerEN": "Bora",
+      "distractorsTR": [
+        "Ada",
+        "Deniz",
+        "Cem"
+      ],
+      "distractorsEN": [
+        "Ada",
+        "Deniz",
+        "Cem"
+      ],
+      "explanationTR": "Sıra Ada, Deniz, Bora, Cem olur. Üçüncü Bora’dır.",
+      "explanationEN": "The order is Ada, Deniz, Bora, Cem. Bora is third.",
+      "sourceIds": [
+        "S09"
+      ]
+    },
+    {
+      "id": "O27",
+      "category": "Gozlem",
+      "mechanicId": "F42",
+      "difficulty": 1,
+      "durationSeconds": 30,
+      "promptTR": "Saatte yalnız dakika ibresi görünüyor ve 6’yı gösteriyor. Buluşma 14:00’ten sonra, 15:00’ten önceyse saat kaçtır?",
+      "promptEN": "Only the minute hand is visible on the clock, pointing to 6. If the meeting is after 14:00 and before 15:00, what time is it?",
+      "correctAnswerTR": "14:30",
+      "correctAnswerEN": "2:30 PM",
+      "distractorsTR": [
+        "14:15",
+        "14:45",
+        "15:30"
+      ],
+      "distractorsEN": [
+        "2:15 PM",
+        "2:45 PM",
+        "3:30 PM"
+      ],
+      "explanationTR": "Dakika ibresinin 6’yı göstermesi yarım saati belirtir; verilen aralıkta saat 14:30’dur.",
+      "explanationEN": "A minute hand pointing at 6 marks half past the hour; within the stated interval, it is 2:30 PM.",
+      "sourceIds": [
+        "S26"
+      ]
+    },
+    {
+      "id": "O29",
+      "category": "Gozlem",
+      "mechanicId": "F47",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Döngü A → B → C → A biçiminde ilerliyor. Kırmızı valiz A’dan başlıyor ve 5 adım hareket ediyor. Sonunda hangi konumdadır?",
+      "promptEN": "A cycle goes A → B → C → A. A red suitcase starts at A and moves 5 steps. Where does it end?",
+      "correctAnswerTR": "C",
+      "correctAnswerEN": "C",
+      "distractorsTR": [
+        "A",
+        "B",
+        "A ile C arasında"
+      ],
+      "distractorsEN": [
+        "A",
+        "B",
+        "Between A and C"
+      ],
+      "explanationTR": "Üç adımlık döngüde 5 adım, 2 adıma denktir: A → B → C.",
+      "explanationEN": "In a three-step cycle, 5 steps are equivalent to 2: A → B → C.",
+      "sourceIds": [
+        "S05"
+      ]
+    },
+    {
+      "id": "O31",
+      "category": "Minyatur",
+      "mechanicId": "F52",
+      "puzzleKind": "TorchBridge",
+      "difficulty": 2,
+      "durationSeconds": 70,
+      "promptTR": "Dört yolcunun köprüyü geçiş süreleri 1, 2, 5 ve 10 dakikadır. Köprü aynı anda en çok iki kişiyi taşır ve geçişte fener gerekir. Birlikte geçenler yavaş olanın süresinde ilerler; feneri karşı kıyıya taşıyan kişi geri dönebilir. Herkesi en fazla 17 dakikada karşıya geçir.",
+      "promptEN": "Four travelers take 1, 2, 5, and 10 minutes to cross a bridge. The bridge carries at most two people, and they need a torch to cross. A pair takes the slower person's time; someone must bring the torch back when needed. Get everyone across in no more than 17 minutes.",
+      "correctAnswerTR": "17 dakika",
+      "correctAnswerEN": "17 minutes",
+      "explanationTR": "En iyi sıra: 1 ve 2 geçer (2 dk); 1 geri döner (1 dk); 5 ve 10 geçer (10 dk); 2 geri döner (2 dk); 1 ve 2 tekrar geçer (2 dk). Toplam 17 dakika.",
+      "explanationEN": "Optimal sequence: 1 and 2 cross (2 min); 1 returns (1 min); 5 and 10 cross (10 min); 2 returns (2 min); 1 and 2 cross again (2 min). Total: 17 minutes.",
+      "sourceIds": [
+        "S28"
+      ],
+      "ints": [
+        1,
+        2,
+        5,
+        10
+      ],
+      "answerValue": 17
+    },
+    {
+      "id": "O32",
+      "category": "Minyatur",
+      "mechanicId": "F51",
+      "puzzleKind": "Bells",
+      "difficulty": 0,
+      "durationSeconds": 30,
+      "promptTR": "Dört çan 1–4 numaralı. Kural açık: her vuruşta bir sonraki numara, 4'ten sonra 1. Dizi 3, 4, 1, 2, ?. Hangi çan?",
+      "promptEN": "Four bells are numbered 1–4. The rule is explicit: each strike is the next number, and 1 follows 4. The sequence is 3, 4, 1, 2, ?. Which bell comes next?",
+      "correctAnswerTR": "3",
+      "correctAnswerEN": "3",
+      "distractorsTR": [
+        "1",
+        "2",
+        "4"
+      ],
+      "distractorsEN": [
+        "1",
+        "2",
+        "4"
+      ],
+      "explanationTR": "Her vuruşta sonraki numaralı çana geçilir; 4'ten sonra 1 gelir. Bu nedenle sıradaki çan 3'tür.",
+      "explanationEN": "Each strike moves to the next numbered bell; 1 follows 4. Therefore, the next bell is 3.",
+      "sourceIds": [
+        "S19"
+      ],
+      "ints": [
+        3,
+        4,
+        1,
+        2
+      ],
+      "answerValue": 3
+    },
+    {
+      "id": "O33",
+      "category": "Minyatur",
+      "mechanicId": "F22",
+      "puzzleKind": "Akari",
+      "difficulty": 1,
+      "durationSeconds": 45,
+      "promptTR": "3×3 alanda ortadaki kare duvardır. Diğer sekiz kare boştur. Bir lamba yatay ve dikey doğrultuda duvara kadar ışık verir; bir başka lambayı aydınlatamaz. İki lambayla bütün boş kareleri aydınlat.",
+      "promptEN": "The center cell of this 3×3 board is a wall; the other eight cells are empty. A lamp shines horizontally and vertically until it reaches a wall, and lamps may not illuminate one another. Light every empty cell with two lamps.",
+      "correctAnswerTR": "Sol üst + sağ alt veya sağ üst + sol alt",
+      "correctAnswerEN": "Top-left + bottom-right, or top-right + bottom-left",
+      "explanationTR": "İki çapraz köşedeki lambalar üst/alt satırları ve sol/sağ sütunları aydınlatır. Ortadaki duvar ışığı durdurur. Her iki çapraz yerleşim de geçerlidir.",
+      "explanationEN": "Lamps on opposite diagonal corners light the top and bottom rows and the left and right columns. The center wall blocks light. Both diagonal placements are valid.",
+      "sourceIds": [
+        "S15"
+      ],
+      "ints": [
+        257,
+        68
+      ]
+    },
+    {
+      "id": "O34",
+      "category": "Minyatur",
+      "mechanicId": "F24",
+      "puzzleKind": "DoorCycle",
+      "difficulty": 1,
+      "durationSeconds": 40,
+      "promptTR": "A kapısı her 3, B kapısı her 4 zaman adımında açılır. t=0’da ikisi de açıktır; yalnız tam işaretli anlarda geçiş mümkündür. t>0 için ilk ortak açık an hangisidir?",
+      "promptEN": "Door A opens every 3 time steps and door B every 4. Both are open at t=0; passage is possible only at the marked moments. What is the first shared opening time for t>0?",
+      "correctAnswerTR": "t = 12",
+      "correctAnswerEN": "t = 12",
+      "explanationTR": "İlk pozitif ortak kat 12’dir: 12, hem 3’e hem 4’e bölünür. Zaman çubuğu refleks istemez; oyuncu tam bir adımı seçer.",
+      "explanationEN": "The first positive common multiple is 12: it is divisible by both 3 and 4. The timeline is discrete and requires no reflex; select the exact step.",
+      "sourceIds": [
+        "S26"
+      ],
+      "ints": [
+        3,
+        4
+      ],
+      "answerValue": 12
+    },
+    {
+      "id": "O35",
+      "category": "Minyatur",
+      "mechanicId": "F49",
+      "puzzleKind": "ValveCause",
+      "difficulty": 0,
+      "durationSeconds": 40,
+      "promptTR": "Hazne başlangıçta boştur. Vana SOL konumdaysa her adımda 1 su çeşmeye, SAĞ konumdaysa çarka gider. Çark 3 birim su alınca köprü açılır. Başlamadan önce vanayı bir kez değiştirebilirsin. Vana SOL’dan başlıyor. Ne yapmalısın?",
+      "promptEN": "The reservoir starts empty. With the valve LEFT, each step sends 1 water unit to the fountain; with it RIGHT, each step sends 1 unit to the wheel. The bridge opens when the wheel receives 3 units. You may change the valve once before starting. It starts LEFT. What should you do?",
+      "correctAnswerTR": "Başlamadan önce vanayı SAĞ’a çevir; üç su adımını çalıştır.",
+      "correctAnswerEN": "Switch the valve RIGHT before starting, then run all three water steps.",
+      "explanationTR": "Sağa yönlendirilen üç birim su çarkı çalıştırır ve köprüyü açar. Sola yönlendirilen su çeşmeye gider. Her adımın sonucu sabittir.",
+      "explanationEN": "Three units sent right power the wheel and open the bridge. Water sent left goes to the fountain. Each step has a deterministic result.",
+      "sourceIds": [
+        "S07",
+        "S09"
+      ],
+      "ints": [
+        3
+      ],
+      "answerValue": 1
+    },
+    {
+      "id": "NS01",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "İstanbul Boğazı hangi iki denizi birbirine bağlar?",
+      "promptEN": "Which two seas does the Bosphorus connect?",
+      "correctAnswerTR": "Karadeniz ve Marmara",
+      "correctAnswerEN": "Black Sea and Marmara",
+      "distractorsTR": [
+        "Ege ve Marmara",
+        "Karadeniz ve Ege",
+        "Akdeniz ve Marmara"
+      ],
+      "distractorsEN": [
+        "Aegean and Marmara",
+        "Black Sea and Aegean",
+        "Mediterranean and Marmara"
+      ],
+      "explanationTR": "Boğaz kuzeyde Karadeniz'i, güneyde Marmara Denizi'ni birleştirir.",
+      "explanationEN": "The strait joins the Black Sea in the north to the Sea of Marmara in the south.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS02",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Galata Kulesi hangi ilçededir?",
+      "promptEN": "Which district is Galata Tower in?",
+      "correctAnswerTR": "Beyoğlu",
+      "correctAnswerEN": "Beyoğlu",
+      "distractorsTR": [
+        "Üsküdar",
+        "Fatih",
+        "Beşiktaş"
+      ],
+      "distractorsEN": [
+        "Üsküdar",
+        "Fatih",
+        "Beşiktaş"
+      ],
+      "explanationTR": "Galata Kulesi, Haliç'in kuzey yakasında Beyoğlu ilçesindedir.",
+      "explanationEN": "Galata Tower stands on the north side of the Golden Horn, in Beyoğlu.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS03",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Kız Kulesi hangi ilçenin kıyısı açığındadır?",
+      "promptEN": "Off the shore of which district does the Maiden's Tower stand?",
+      "correctAnswerTR": "Üsküdar",
+      "correctAnswerEN": "Üsküdar",
+      "distractorsTR": [
+        "Beşiktaş",
+        "Kadıköy",
+        "Fatih"
+      ],
+      "distractorsEN": [
+        "Beşiktaş",
+        "Kadıköy",
+        "Fatih"
+      ],
+      "explanationTR": "Kız Kulesi, Anadolu yakasında Üsküdar'ın Salacak kıyısı açığındaki adacıktadır.",
+      "explanationEN": "It sits on an islet off Salacak, on the Üsküdar shore of the Asian side.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS04",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Su, deniz seviyesinde kaç derecede kaynar?",
+      "promptEN": "At sea level, at what temperature does water boil?",
+      "correctAnswerTR": "100 °C",
+      "correctAnswerEN": "100 °C",
+      "distractorsTR": [
+        "90 °C",
+        "120 °C",
+        "80 °C"
+      ],
+      "distractorsEN": [
+        "90 °C",
+        "120 °C",
+        "80 °C"
+      ],
+      "explanationTR": "Deniz seviyesindeki basınçta su 100 °C'de kaynar; dağda basınç düşük olduğu için daha erken kaynar.",
+      "explanationEN": "At sea-level pressure water boils at 100 °C; on a mountain the lower pressure makes it boil sooner.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS05",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "İnsan vücudunun en büyük organı hangisidir?",
+      "promptEN": "What is the largest organ of the human body?",
+      "correctAnswerTR": "Deri",
+      "correctAnswerEN": "Skin",
+      "distractorsTR": [
+        "Karaciğer",
+        "Akciğer",
+        "Beyin"
+      ],
+      "distractorsEN": [
+        "Liver",
+        "Lung",
+        "Brain"
+      ],
+      "explanationTR": "Deri, bütün vücudu saran ve yetişkinde birkaç kilo gelen en büyük organdır.",
+      "explanationEN": "Skin covers the whole body and weighs several kilos in an adult: the largest organ.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS06",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Gökkuşağında geleneksel olarak kaç renk sayılır?",
+      "promptEN": "How many colours are traditionally counted in a rainbow?",
+      "correctAnswerTR": "7",
+      "correctAnswerEN": "7",
+      "distractorsTR": [
+        "5",
+        "6",
+        "8"
+      ],
+      "distractorsEN": [
+        "5",
+        "6",
+        "8"
+      ],
+      "explanationTR": "Kırmızı, turuncu, sarı, yeşil, mavi, lacivert ve mor: yedi renk.",
+      "explanationEN": "Red, orange, yellow, green, blue, indigo and violet: seven colours.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS07",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Türkiye Cumhuriyeti hangi yıl ilan edildi?",
+      "promptEN": "In which year was the Republic of Türkiye proclaimed?",
+      "correctAnswerTR": "1923",
+      "correctAnswerEN": "1923",
+      "distractorsTR": [
+        "1920",
+        "1919",
+        "1938"
+      ],
+      "distractorsEN": [
+        "1920",
+        "1919",
+        "1938"
+      ],
+      "explanationTR": "Cumhuriyet 29 Ekim 1923'te ilan edildi.",
+      "explanationEN": "The Republic was proclaimed on 29 October 1923.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS08",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Güneş Sistemi'nin en büyük gezegeni hangisidir?",
+      "promptEN": "Which is the largest planet in the Solar System?",
+      "correctAnswerTR": "Jüpiter",
+      "correctAnswerEN": "Jupiter",
+      "distractorsTR": [
+        "Satürn",
+        "Neptün",
+        "Dünya"
+      ],
+      "distractorsEN": [
+        "Saturn",
+        "Neptune",
+        "Earth"
+      ],
+      "explanationTR": "Jüpiter o kadar büyük ki içine 1300'den fazla Dünya sığar.",
+      "explanationEN": "Jupiter is so big that more than 1,300 Earths would fit inside it.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS09",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Suyun kimyasal formülü nedir?",
+      "promptEN": "What is the chemical formula of water?",
+      "correctAnswerTR": "H₂O",
+      "correctAnswerEN": "H₂O",
+      "distractorsTR": [
+        "CO₂",
+        "O₂",
+        "H₂O₂"
+      ],
+      "distractorsEN": [
+        "CO₂",
+        "O₂",
+        "H₂O₂"
+      ],
+      "explanationTR": "Bir su molekülünde iki hidrojen ve bir oksijen atomu vardır.",
+      "explanationEN": "A water molecule has two hydrogen atoms and one oxygen atom.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS10",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Bir futbol takımı maça sahada kaç oyuncuyla başlar?",
+      "promptEN": "How many players does a football team start a match with on the pitch?",
+      "correctAnswerTR": "11",
+      "correctAnswerEN": "11",
+      "distractorsTR": [
+        "10",
+        "9",
+        "12"
+      ],
+      "distractorsEN": [
+        "10",
+        "9",
+        "12"
+      ],
+      "explanationTR": "Kaleci dahil on bir oyuncu.",
+      "explanationEN": "Eleven players, including the goalkeeper.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS11",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Mimar Sinan'ın \"kalfalık eserim\" dediği İstanbul camisi hangisidir?",
+      "promptEN": "Which Istanbul mosque did Mimar Sinan call his \"journeyman's work\"?",
+      "correctAnswerTR": "Süleymaniye Camii",
+      "correctAnswerEN": "Süleymaniye Mosque",
+      "distractorsTR": [
+        "Şehzade Camii",
+        "Sultanahmet Camii",
+        "Rüstem Paşa Camii"
+      ],
+      "distractorsEN": [
+        "Şehzade Mosque",
+        "Blue Mosque",
+        "Rüstem Pasha Mosque"
+      ],
+      "explanationTR": "Sinan, Şehzade'yi çıraklık, Süleymaniye'yi kalfalık, Edirne'deki Selimiye'yi ustalık eseri sayar.",
+      "explanationEN": "Sinan called Şehzade his apprentice work, Süleymaniye his journeyman's work and Selimiye in Edirne his masterpiece.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS12",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Kadıköy İstanbul'un hangi yakasındadır?",
+      "promptEN": "Which side of Istanbul is Kadıköy on?",
+      "correctAnswerTR": "Anadolu Yakası",
+      "correctAnswerEN": "Asian side",
+      "distractorsTR": [
+        "Avrupa Yakası",
+        "Adalar",
+        "Haliç kıyısı"
+      ],
+      "distractorsEN": [
+        "European side",
+        "The Islands",
+        "Golden Horn shore"
+      ],
+      "explanationTR": "Kadıköy, Boğaz'ın doğusunda, Anadolu yakasındadır.",
+      "explanationEN": "Kadıköy lies east of the Bosphorus, on the Asian side.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS13",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Bitkiler fotosentez için havadan hangi gazı alır?",
+      "promptEN": "Which gas do plants take from the air for photosynthesis?",
+      "correctAnswerTR": "Karbondioksit",
+      "correctAnswerEN": "Carbon dioxide",
+      "distractorsTR": [
+        "Oksijen",
+        "Azot",
+        "Helyum"
+      ],
+      "distractorsEN": [
+        "Oxygen",
+        "Nitrogen",
+        "Helium"
+      ],
+      "explanationTR": "Bitkiler karbondioksit ve suyu ışıkla şekere çevirir, oksijen bırakır.",
+      "explanationEN": "Plants turn carbon dioxide and water into sugar using light, and release oxygen.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS14",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Ses hangisinde hiç yayılamaz?",
+      "promptEN": "Through which can sound not travel at all?",
+      "correctAnswerTR": "Boşluk",
+      "correctAnswerEN": "A vacuum",
+      "distractorsTR": [
+        "Su",
+        "Hava",
+        "Demir"
+      ],
+      "distractorsEN": [
+        "Water",
+        "Air",
+        "Iron"
+      ],
+      "explanationTR": "Ses titreşen moleküllerle taşınır; boşlukta molekül olmadığı için ses yoktur.",
+      "explanationEN": "Sound is carried by vibrating molecules; a vacuum has none, so there is no sound.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS15",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Haliç'in üzerinden geçen köprü hangisidir?",
+      "promptEN": "Which bridge crosses the Golden Horn?",
+      "correctAnswerTR": "Galata Köprüsü",
+      "correctAnswerEN": "Galata Bridge",
+      "distractorsTR": [
+        "15 Temmuz Şehitler Köprüsü",
+        "Fatih Sultan Mehmet Köprüsü",
+        "Yavuz Sultan Selim Köprüsü"
+      ],
+      "distractorsEN": [
+        "15 July Martyrs Bridge",
+        "Fatih Sultan Mehmet Bridge",
+        "Yavuz Sultan Selim Bridge"
+      ],
+      "explanationTR": "Galata Köprüsü Karaköy ile Eminönü'nü Haliç üzerinden bağlar; diğer üçü Boğaz'ı geçer.",
+      "explanationEN": "Galata Bridge links Karaköy and Eminönü over the Golden Horn; the other three span the Bosphorus.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS16",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Bir üçgenin iç açılarının toplamı kaç derecedir?",
+      "promptEN": "What do the inner angles of a triangle add up to?",
+      "correctAnswerTR": "180°",
+      "correctAnswerEN": "180°",
+      "distractorsTR": [
+        "360°",
+        "90°",
+        "270°"
+      ],
+      "distractorsEN": [
+        "360°",
+        "90°",
+        "270°"
+      ],
+      "explanationTR": "Düzlemde her üçgenin iç açıları toplamı 180 derecedir.",
+      "explanationEN": "On a flat plane, every triangle's angles add up to 180 degrees.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS17",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "En küçük asal sayı kaçtır?",
+      "promptEN": "What is the smallest prime number?",
+      "correctAnswerTR": "2",
+      "correctAnswerEN": "2",
+      "distractorsTR": [
+        "1",
+        "3",
+        "0"
+      ],
+      "distractorsEN": [
+        "1",
+        "3",
+        "0"
+      ],
+      "explanationTR": "Asal sayının tam iki böleni olur; 1'in tek böleni vardır, 2 ise hem en küçük hem tek çift asaldır.",
+      "explanationEN": "A prime has exactly two divisors; 1 has only one, and 2 is the smallest prime and the only even one.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS18",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "En hızlı koşan kara hayvanı hangisidir?",
+      "promptEN": "Which land animal runs the fastest?",
+      "correctAnswerTR": "Çita",
+      "correctAnswerEN": "Cheetah",
+      "distractorsTR": [
+        "Aslan",
+        "Antilop",
+        "Kurt"
+      ],
+      "distractorsEN": [
+        "Lion",
+        "Antelope",
+        "Wolf"
+      ],
+      "explanationTR": "Çita kısa mesafede saatte 100 km'ye yaklaşır.",
+      "explanationEN": "A cheetah approaches 100 km/h over a short sprint.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS19",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Bir bayt kaç bittir?",
+      "promptEN": "How many bits are in a byte?",
+      "correctAnswerTR": "8",
+      "correctAnswerEN": "8",
+      "distractorsTR": [
+        "4",
+        "16",
+        "10"
+      ],
+      "distractorsEN": [
+        "4",
+        "16",
+        "10"
+      ],
+      "explanationTR": "Bilgisayarda bir bayt sekiz bitten oluşur.",
+      "explanationEN": "In computing, one byte is eight bits.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS20",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "İnsan kalbi kaç odacıklıdır?",
+      "promptEN": "How many chambers does the human heart have?",
+      "correctAnswerTR": "4",
+      "correctAnswerEN": "4",
+      "distractorsTR": [
+        "2",
+        "3",
+        "6"
+      ],
+      "distractorsEN": [
+        "2",
+        "3",
+        "6"
+      ],
+      "explanationTR": "İki kulakçık ve iki karıncık: dört odacık.",
+      "explanationEN": "Two atria and two ventricles: four chambers.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS21",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Boğaz'daki ilk köprü (bugünkü 15 Temmuz Şehitler Köprüsü) hangi yıl açıldı?",
+      "promptEN": "In which year did the first Bosphorus bridge (today's 15 July Martyrs Bridge) open?",
+      "correctAnswerTR": "1973",
+      "correctAnswerEN": "1973",
+      "distractorsTR": [
+        "1988",
+        "1965",
+        "2016"
+      ],
+      "distractorsEN": [
+        "1988",
+        "1965",
+        "2016"
+      ],
+      "explanationTR": "Köprü Cumhuriyet'in 50. yılında, 1973'te açıldı; 1988 ikinci, 2016 üçüncü köprünün yılıdır.",
+      "explanationEN": "It opened in 1973, the Republic's 50th year; 1988 and 2016 are the second and third bridges.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS22",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Süleymaniye Camii'nin mimarı kimdir?",
+      "promptEN": "Who was the architect of the Süleymaniye Mosque?",
+      "correctAnswerTR": "Mimar Sinan",
+      "correctAnswerEN": "Mimar Sinan",
+      "distractorsTR": [
+        "Sedefkâr Mehmed Ağa",
+        "Davud Ağa",
+        "Mimar Kemaleddin"
+      ],
+      "distractorsEN": [
+        "Sedefkâr Mehmed Ağa",
+        "Davud Ağa",
+        "Mimar Kemaleddin"
+      ],
+      "explanationTR": "Süleymaniye'yi Kanuni için Mimar Sinan yaptı; Sultanahmet ise Sedefkâr Mehmed Ağa'nındır.",
+      "explanationEN": "Mimar Sinan built it for Suleiman the Magnificent; the Blue Mosque is Sedefkâr Mehmed Ağa's work.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS23",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Periyodik tabloda \"Fe\" simgesi hangi elementindir?",
+      "promptEN": "Which element has the symbol \"Fe\"?",
+      "correctAnswerTR": "Demir",
+      "correctAnswerEN": "Iron",
+      "distractorsTR": [
+        "Flor",
+        "Fosfor",
+        "Fermiyum"
+      ],
+      "distractorsEN": [
+        "Fluorine",
+        "Phosphorus",
+        "Fermium"
+      ],
+      "explanationTR": "Fe, demirin Latince adı ferrum'dan gelir.",
+      "explanationEN": "Fe comes from ferrum, the Latin word for iron.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS24",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Okyanuslardaki en derin çukur hangisidir?",
+      "promptEN": "Which is the deepest trench in the oceans?",
+      "correctAnswerTR": "Mariana Çukuru",
+      "correctAnswerEN": "Mariana Trench",
+      "distractorsTR": [
+        "Porto Riko Çukuru",
+        "Tonga Çukuru",
+        "Java Çukuru"
+      ],
+      "distractorsEN": [
+        "Puerto Rico Trench",
+        "Tonga Trench",
+        "Java Trench"
+      ],
+      "explanationTR": "Pasifik'teki Mariana Çukuru yaklaşık 11 km derinliğe iner.",
+      "explanationEN": "The Mariana Trench in the Pacific goes down about 11 km.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS25",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Ay'a ilk ayak basan insan kimdir?",
+      "promptEN": "Who was the first person to step on the Moon?",
+      "correctAnswerTR": "Neil Armstrong",
+      "correctAnswerEN": "Neil Armstrong",
+      "distractorsTR": [
+        "Buzz Aldrin",
+        "Yuri Gagarin",
+        "Michael Collins"
+      ],
+      "distractorsEN": [
+        "Buzz Aldrin",
+        "Yuri Gagarin",
+        "Michael Collins"
+      ],
+      "explanationTR": "Apollo 11 ile 1969'da önce Armstrong, ardından Aldrin indi; Gagarin uzaya çıkan ilk insandır.",
+      "explanationEN": "With Apollo 11 in 1969 Armstrong stepped out first, then Aldrin; Gagarin was the first human in space.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS26",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Yetişkin bir insanın iskeletinde kaç kemik vardır?",
+      "promptEN": "How many bones are in an adult human skeleton?",
+      "correctAnswerTR": "206",
+      "correctAnswerEN": "206",
+      "distractorsTR": [
+        "186",
+        "226",
+        "256"
+      ],
+      "distractorsEN": [
+        "186",
+        "226",
+        "256"
+      ],
+      "explanationTR": "Bebeklikte daha fazla kemik vardır; bazıları büyürken kaynaşır ve yetişkinde 206 kalır.",
+      "explanationEN": "Babies have more; some fuse while growing, leaving 206 in an adult.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS27",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "\"Kürk Mantolu Madonna\" romanının yazarı kimdir?",
+      "promptEN": "Who wrote the novel \"Madonna in a Fur Coat\"?",
+      "correctAnswerTR": "Sabahattin Ali",
+      "correctAnswerEN": "Sabahattin Ali",
+      "distractorsTR": [
+        "Orhan Pamuk",
+        "Yaşar Kemal",
+        "Ahmet Hamdi Tanpınar"
+      ],
+      "distractorsEN": [
+        "Orhan Pamuk",
+        "Yaşar Kemal",
+        "Ahmet Hamdi Tanpınar"
+      ],
+      "explanationTR": "Roman 1943'te yayımlandı; yazarı Sabahattin Ali'dir.",
+      "explanationEN": "The novel came out in 1943; its author is Sabahattin Ali.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS28",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Şimşek çaktıktan 3 saniye sonra gök gürültüsünü duydun. Fırtına yaklaşık ne kadar uzakta?",
+      "promptEN": "You hear thunder 3 seconds after the lightning. Roughly how far away is the storm?",
+      "correctAnswerTR": "1 km",
+      "correctAnswerEN": "1 km",
+      "distractorsTR": [
+        "3 km",
+        "300 m",
+        "10 km"
+      ],
+      "distractorsEN": [
+        "3 km",
+        "300 m",
+        "10 km"
+      ],
+      "explanationTR": "Işık anında gelir, ses saniyede yaklaşık 340 m yol alır: 3 × 340 ≈ 1 km.",
+      "explanationEN": "Light arrives instantly; sound covers about 340 m a second: 3 × 340 ≈ 1 km.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS29",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "21 Mart civarında gece ile gündüzün eşitlendiği güne ne denir?",
+      "promptEN": "What is the day around 21 March, when day and night are equal, called?",
+      "correctAnswerTR": "İlkbahar ekinoksu",
+      "correctAnswerEN": "Spring equinox",
+      "distractorsTR": [
+        "Yaz gündönümü",
+        "Kış gündönümü",
+        "Sonbahar ekinoksu"
+      ],
+      "distractorsEN": [
+        "Summer solstice",
+        "Winter solstice",
+        "Autumn equinox"
+      ],
+      "explanationTR": "Mart'taki ekinoks ilkbaharı, Eylül'deki sonbaharı başlatır; gündönümleri Haziran ve Aralık'tadır.",
+      "explanationEN": "The March equinox starts spring, the September one autumn; the solstices fall in June and December.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS30",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Yerebatan Sarnıcı hangi devletin döneminde yapıldı?",
+      "promptEN": "Under which empire was the Basilica Cistern built?",
+      "correctAnswerTR": "Bizans (Doğu Roma)",
+      "correctAnswerEN": "Byzantine (Eastern Roman)",
+      "distractorsTR": [
+        "Osmanlı",
+        "Selçuklu",
+        "Ceneviz"
+      ],
+      "distractorsEN": [
+        "Ottoman",
+        "Seljuk",
+        "Genoese"
+      ],
+      "explanationTR": "Sarnıç 6. yüzyılda İmparator I. Justinianus döneminde yapıldı.",
+      "explanationEN": "It was built in the 6th century under Emperor Justinian I.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS31",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Kapalıçarşı'nın ilk bölümü hangi padişah döneminde yapıldı?",
+      "promptEN": "Under which sultan was the first part of the Grand Bazaar built?",
+      "correctAnswerTR": "Fatih Sultan Mehmet",
+      "correctAnswerEN": "Mehmed the Conqueror",
+      "distractorsTR": [
+        "Kanuni Sultan Süleyman",
+        "II. Abdülhamid",
+        "III. Ahmed"
+      ],
+      "distractorsEN": [
+        "Suleiman the Magnificent",
+        "Abdulhamid II",
+        "Ahmed III"
+      ],
+      "explanationTR": "Çarşının çekirdeği olan Cevahir Bedesteni fetihten kısa süre sonra, Fatih döneminde yapıldı.",
+      "explanationEN": "Its core, the Jewellers' Bedesten, was built soon after the conquest, under Mehmed II.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS32",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Prens Adaları'nın en büyüğü hangisidir?",
+      "promptEN": "Which is the largest of the Princes' Islands?",
+      "correctAnswerTR": "Büyükada",
+      "correctAnswerEN": "Büyükada",
+      "distractorsTR": [
+        "Heybeliada",
+        "Burgazada",
+        "Kınalıada"
+      ],
+      "distractorsEN": [
+        "Heybeliada",
+        "Burgazada",
+        "Kınalıada"
+      ],
+      "explanationTR": "Adı da söylüyor: Büyükada, adaların en büyüğüdür.",
+      "explanationEN": "The name says it: Büyükada, 'big island', is the largest.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS33",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Dünya atmosferinin en büyük kısmını hangi gaz oluşturur?",
+      "promptEN": "Which gas makes up most of Earth's atmosphere?",
+      "correctAnswerTR": "Azot",
+      "correctAnswerEN": "Nitrogen",
+      "distractorsTR": [
+        "Oksijen",
+        "Karbondioksit",
+        "Argon"
+      ],
+      "distractorsEN": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Argon"
+      ],
+      "explanationTR": "Havanın yaklaşık %78'i azot, %21'i oksijendir.",
+      "explanationEN": "Air is about 78% nitrogen and 21% oxygen.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS34",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Mona Lisa tablosunu kim yaptı?",
+      "promptEN": "Who painted the Mona Lisa?",
+      "correctAnswerTR": "Leonardo da Vinci",
+      "correctAnswerEN": "Leonardo da Vinci",
+      "distractorsTR": [
+        "Vincent van Gogh",
+        "Edvard Munch",
+        "Johannes Vermeer"
+      ],
+      "distractorsEN": [
+        "Vincent van Gogh",
+        "Edvard Munch",
+        "Johannes Vermeer"
+      ],
+      "explanationTR": "Mona Lisa, Leonardo da Vinci'nin eseridir; Paris'te Louvre'da sergilenir.",
+      "explanationEN": "The Mona Lisa is by Leonardo da Vinci and hangs in the Louvre in Paris.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS35",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "\"İstanbul'u dinliyorum, gözlerim kapalı\" dizesi hangi şairindir?",
+      "promptEN": "Which poet wrote the line \"I am listening to Istanbul, my eyes closed\"?",
+      "correctAnswerTR": "Orhan Veli Kanık",
+      "correctAnswerEN": "Orhan Veli Kanık",
+      "distractorsTR": [
+        "Nazım Hikmet",
+        "Cemal Süreya",
+        "Yahya Kemal Beyatlı"
+      ],
+      "distractorsEN": [
+        "Nazım Hikmet",
+        "Cemal Süreya",
+        "Yahya Kemal Beyatlı"
+      ],
+      "explanationTR": "Dize, Orhan Veli'nin \"İstanbul'u Dinliyorum\" şiirindendir.",
+      "explanationEN": "It is from Orhan Veli's poem \"I Am Listening to Istanbul\".",
+      "sourceIds": []
+    },
+    {
+      "id": "NS36",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "İstanbul'un fethi hangi yıldır?",
+      "promptEN": "In which year was Istanbul conquered by the Ottomans?",
+      "correctAnswerTR": "1453",
+      "correctAnswerEN": "1453",
+      "distractorsTR": [
+        "1071",
+        "1299",
+        "1517"
+      ],
+      "distractorsEN": [
+        "1071",
+        "1299",
+        "1517"
+      ],
+      "explanationTR": "Fatih Sultan Mehmet 29 Mayıs 1453'te şehri aldı.",
+      "explanationEN": "Mehmed II took the city on 29 May 1453.",
+      "sourceIds": []
+    },
+    {
+      "id": "NS37",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Pi sayısı virgülden sonra iki basamakla nasıl yazılır?",
+      "promptEN": "How is pi written to two decimal places?",
+      "correctAnswerTR": "3,14",
+      "correctAnswerEN": "3.14",
+      "distractorsTR": [
+        "3,41",
+        "3,16",
+        "3,12"
+      ],
+      "distractorsEN": [
+        "3.41",
+        "3.16",
+        "3.12"
+      ],
+      "explanationTR": "Pi, bir çemberin çevresinin çapına oranıdır: 3,14159…",
+      "explanationEN": "Pi is a circle's circumference over its diameter: 3.14159…",
+      "sourceIds": []
+    },
+    {
+      "id": "NS38",
+      "category": "Soru",
+      "mechanicId": "F01",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Ana dil olarak en çok konuşulan dil hangisidir?",
+      "promptEN": "Which language has the most native speakers?",
+      "correctAnswerTR": "Çince (Mandarin)",
+      "correctAnswerEN": "Mandarin Chinese",
+      "distractorsTR": [
+        "İngilizce",
+        "İspanyolca",
+        "Hintçe"
+      ],
+      "distractorsEN": [
+        "English",
+        "Spanish",
+        "Hindi"
+      ],
+      "explanationTR": "Mandarin Çincesini ana dil olarak konuşan kişi sayısı 900 milyonu aşar.",
+      "explanationEN": "Mandarin has more than 900 million native speakers.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB01",
+      "category": "Bilmece",
+      "mechanicId": "F09",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "Yağmur yağınca açılırım, güneş çıkınca kapanırım; başının üstünde dururum. Neyim?",
+      "promptEN": "I open when it rains and close when the sun is out; I stay above your head. What am I?",
+      "correctAnswerTR": "Şemsiye",
+      "correctAnswerEN": "An umbrella",
+      "distractorsTR": [
+        "Şapka",
+        "Tente",
+        "Çanta"
+      ],
+      "distractorsEN": [
+        "A hat",
+        "An awning",
+        "A bag"
+      ],
+      "explanationTR": "Şemsiye yağmurda açılır, elde taşınır ve başın üstünde tutulur.",
+      "explanationEN": "An umbrella opens in the rain and is held above your head.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB02",
+      "category": "Bilmece",
+      "mechanicId": "F09",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "Dişlerim var ama ısırmam; saçlarını düzeltirim. Neyim?",
+      "promptEN": "I have teeth but never bite; I tidy your hair. What am I?",
+      "correctAnswerTR": "Tarak",
+      "correctAnswerEN": "A comb",
+      "distractorsTR": [
+        "Testere",
+        "Fırça",
+        "Makas"
+      ],
+      "distractorsEN": [
+        "A saw",
+        "A brush",
+        "Scissors"
+      ],
+      "explanationTR": "Tarağın sıra sıra dişleri vardır ama ısırmaz.",
+      "explanationEN": "A comb has a row of teeth but never bites.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB03",
+      "category": "Bilmece",
+      "mechanicId": "F09",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "Geceleri gökyüzünde parlarım; bazen yarımım, bazen tam bir daireyim. Neyim?",
+      "promptEN": "I shine in the night sky; sometimes I am half, sometimes a full circle. What am I?",
+      "correctAnswerTR": "Ay",
+      "correctAnswerEN": "The Moon",
+      "distractorsTR": [
+        "Yıldız",
+        "Güneş",
+        "Bulut"
+      ],
+      "distractorsEN": [
+        "A star",
+        "The Sun",
+        "A cloud"
+      ],
+      "explanationTR": "Ay'ın evreleri hilalden dolunaya değişir.",
+      "explanationEN": "The Moon's phases change from crescent to full.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB04",
+      "category": "Bilmece",
+      "mechanicId": "F09",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "Kanatlarım var ama tüyüm yok; yolcu taşırım, bulutların üstünden geçerim. Neyim?",
+      "promptEN": "I have wings but no feathers; I carry passengers above the clouds. What am I?",
+      "correctAnswerTR": "Uçak",
+      "correctAnswerEN": "A plane",
+      "distractorsTR": [
+        "Kuş",
+        "Uçurtma",
+        "Balon"
+      ],
+      "distractorsEN": [
+        "A bird",
+        "A kite",
+        "A balloon"
+      ],
+      "explanationTR": "Uçağın kanatları vardır ama tüyü yoktur ve yolcu taşır.",
+      "explanationEN": "A plane has wings but no feathers, and it carries passengers.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB05",
+      "category": "Bilmece",
+      "mechanicId": "F09",
+      "difficulty": 0,
+      "durationSeconds": 25,
+      "promptTR": "Ne kadar çok kazarsan o kadar büyürüm. Neyim?",
+      "promptEN": "The more you dig, the bigger I get. What am I?",
+      "correctAnswerTR": "Çukur",
+      "correctAnswerEN": "A hole",
+      "distractorsTR": [
+        "Kum",
+        "Su",
+        "Taş"
+      ],
+      "distractorsEN": [
+        "Sand",
+        "Water",
+        "A stone"
+      ],
+      "explanationTR": "Kazdıkça toprak çıkar, çukur büyür.",
+      "explanationEN": "Digging removes earth, so the hole grows.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB11",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Benimdir ama başkaları beni benden çok kullanır. Nedir?",
+      "promptEN": "It belongs to me, yet others use it far more than I do. What is it?",
+      "correctAnswerTR": "Adım",
+      "correctAnswerEN": "My name",
+      "distractorsTR": [
+        "Telefonum",
+        "Kalemim",
+        "Param"
+      ],
+      "distractorsEN": [
+        "My phone",
+        "My pen",
+        "My money"
+      ],
+      "explanationTR": "İnsanlar sana seslenirken adını senden çok kullanır.",
+      "explanationEN": "People say your name to call you far more often than you do.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB12",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Kırılmadan işe yaramam. Neyim?",
+      "promptEN": "I am no use until I am broken. What am I?",
+      "correctAnswerTR": "Yumurta",
+      "correctAnswerEN": "An egg",
+      "distractorsTR": [
+        "Bardak",
+        "Tabak",
+        "Cam"
+      ],
+      "distractorsEN": [
+        "A glass",
+        "A plate",
+        "A window"
+      ],
+      "explanationTR": "Yumurtayı pişirmek için önce kırarsın.",
+      "explanationEN": "You crack an egg before you can cook it.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB13",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Hep gelecek denir ama hiç gelmez. Nedir?",
+      "promptEN": "It is always coming but never arrives. What is it?",
+      "correctAnswerTR": "Yarın",
+      "correctAnswerEN": "Tomorrow",
+      "distractorsTR": [
+        "Dün",
+        "Bugün",
+        "Akşam"
+      ],
+      "distractorsEN": [
+        "Yesterday",
+        "Today",
+        "Evening"
+      ],
+      "explanationTR": "Yarın geldiğinde adı bugün olur.",
+      "explanationEN": "When tomorrow comes, it is called today.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB14",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Islandıkça kurutan nedir?",
+      "promptEN": "What gets wetter the more it dries?",
+      "correctAnswerTR": "Havlu",
+      "correctAnswerEN": "A towel",
+      "distractorsTR": [
+        "Güneş",
+        "Rüzgâr",
+        "Sünger"
+      ],
+      "distractorsEN": [
+        "The sun",
+        "The wind",
+        "A sponge"
+      ],
+      "explanationTR": "Havlu seni kuruturken kendisi ıslanır.",
+      "explanationEN": "A towel gets wet while it dries you.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB15",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Tuşlarım var ama kilidim yok; basınca şarkı söylerim. Neyim?",
+      "promptEN": "I have keys but no lock; press them and I sing. What am I?",
+      "correctAnswerTR": "Piyano",
+      "correctAnswerEN": "A piano",
+      "distractorsTR": [
+        "Kilit",
+        "Zil",
+        "Davul"
+      ],
+      "distractorsEN": [
+        "A lock",
+        "A doorbell",
+        "A drum"
+      ],
+      "explanationTR": "Piyanonun tuşlarına basınca nota çalar.",
+      "explanationEN": "Pressing a piano's keys plays notes.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB16",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Tek gözüm var ama göremem; arkamdan ip çekerim. Neyim?",
+      "promptEN": "I have one eye but cannot see; I pull a thread behind me. What am I?",
+      "correctAnswerTR": "İğne",
+      "correctAnswerEN": "A needle",
+      "distractorsTR": [
+        "Kamera",
+        "Düğme",
+        "Makara"
+      ],
+      "distractorsEN": [
+        "A camera",
+        "A button",
+        "A spool"
+      ],
+      "explanationTR": "İğnenin ipliğin geçtiği deliğine göz denir.",
+      "explanationEN": "The hole a thread passes through is called a needle's eye.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB17",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Yatağım var ama uyumam, ağzım var ama konuşmam, akarım ama yürümem. Neyim?",
+      "promptEN": "I have a bed but never sleep, a mouth but never speak; I run but never walk. What am I?",
+      "correctAnswerTR": "Nehir",
+      "correctAnswerEN": "A river",
+      "distractorsTR": [
+        "Yol",
+        "Rüzgâr",
+        "Saat"
+      ],
+      "distractorsEN": [
+        "A road",
+        "The wind",
+        "A clock"
+      ],
+      "explanationTR": "Nehrin yatağı ve denize döküldüğü ağzı vardır; su akar.",
+      "explanationEN": "A river has a bed and a mouth where it meets the sea, and it runs.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB18",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Ellerim var ama alkışlayamam; yüzüm var ama gülümseyemem. Neyim?",
+      "promptEN": "I have hands but cannot clap and a face but cannot smile. What am I?",
+      "correctAnswerTR": "Saat",
+      "correctAnswerEN": "A clock",
+      "distractorsTR": [
+        "Ayna",
+        "Kukla",
+        "Heykel"
+      ],
+      "distractorsEN": [
+        "A mirror",
+        "A puppet",
+        "A statue"
+      ],
+      "explanationTR": "Saatin kadranına yüz, akrep ile yelkovana el denir.",
+      "explanationEN": "A clock's dial is its face, and its pointers are its hands.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB19",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Paylaşınca kaybolan nedir?",
+      "promptEN": "What disappears as soon as you share it?",
+      "correctAnswerTR": "Sır",
+      "correctAnswerEN": "A secret",
+      "distractorsTR": [
+        "Ekmek",
+        "Para",
+        "Sevgi"
+      ],
+      "distractorsEN": [
+        "Bread",
+        "Money",
+        "Love"
+      ],
+      "explanationTR": "Sırrı birine söylediğinde artık sır olmaz.",
+      "explanationEN": "Once you tell a secret, it is no longer a secret.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB20",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Ne kadar çok atarsan, arkanda o kadar çok bırakırsın. Nedir?",
+      "promptEN": "The more of them you take, the more you leave behind. What are they?",
+      "correctAnswerTR": "Adım",
+      "correctAnswerEN": "Footsteps",
+      "distractorsTR": [
+        "Nefes",
+        "Para",
+        "Kalem"
+      ],
+      "distractorsEN": [
+        "Breaths",
+        "Money",
+        "Pencils"
+      ],
+      "explanationTR": "Her attığın adım arkanda bir iz bırakır.",
+      "explanationEN": "Every step you take leaves a footprint behind.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB21",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Gece gelir, sayılmaz çok; sabah olur, hiçbiri yok. Nedir?",
+      "promptEN": "They come at night, too many to count; by morning none are left. What are they?",
+      "correctAnswerTR": "Yıldızlar",
+      "correctAnswerEN": "The stars",
+      "distractorsTR": [
+        "Bulutlar",
+        "Lambalar",
+        "Kuşlar"
+      ],
+      "distractorsEN": [
+        "The clouds",
+        "The lamps",
+        "The birds"
+      ],
+      "explanationTR": "Yıldızlar gündüz de oradadır ama güneş ışığında görünmez.",
+      "explanationEN": "The stars are still there by day, just hidden by sunlight.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB22",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Sudan çıkarım, suya girince yok olurum. Neyim?",
+      "promptEN": "I come from the water, and in water I vanish. What am I?",
+      "correctAnswerTR": "Tuz",
+      "correctAnswerEN": "Salt",
+      "distractorsTR": [
+        "Buz",
+        "Kum",
+        "Balık"
+      ],
+      "distractorsEN": [
+        "Ice",
+        "Sand",
+        "A fish"
+      ],
+      "explanationTR": "Tuz deniz suyundan elde edilir ve suda çözünür.",
+      "explanationEN": "Salt is taken from seawater and dissolves in water.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB23",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 1,
+      "durationSeconds": 35,
+      "promptTR": "Dünyayı dolaşırım ama hep bir köşede dururum. Neyim?",
+      "promptEN": "I travel around the world but always stay in a corner. What am I?",
+      "correctAnswerTR": "Posta pulu",
+      "correctAnswerEN": "A postage stamp",
+      "distractorsTR": [
+        "Ay",
+        "Uçak",
+        "Harita"
+      ],
+      "distractorsEN": [
+        "The Moon",
+        "A plane",
+        "A map"
+      ],
+      "explanationTR": "Pul zarfın köşesine yapışır ve mektupla dünyayı gezer.",
+      "explanationEN": "A stamp sits in an envelope's corner and travels with the letter.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB31",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Bir adam her sabah 10. kattaki evinden asansörle iner. Akşamları asansörle 7. kata çıkıp gerisini yürür; yağmurlu günlerde ise 10. kata kadar asansörle çıkar. Neden?",
+      "promptEN": "Every morning a man takes the lift down from his 10th-floor flat. In the evening he rides to the 7th floor and walks the rest, except on rainy days, when he rides all the way. Why?",
+      "correctAnswerTR": "Boyu kısa, şemsiyesiyle 10 düğmesine uzanıyor",
+      "correctAnswerEN": "He is short and reaches the 10 button with his umbrella",
+      "distractorsTR": [
+        "Spor yapmak istiyor",
+        "Asansör 7. katta bozuk",
+        "7. kattaki komşusuna uğruyor"
+      ],
+      "distractorsEN": [
+        "He wants the exercise",
+        "The lift is broken on floor 7",
+        "He visits a neighbour on floor 7"
+      ],
+      "explanationTR": "Eli ancak 7 düğmesine yetişir; yağmurda yanındaki şemsiyeyle 10'a basabilir.",
+      "explanationEN": "His hand only reaches the 7 button; on rainy days his umbrella reaches the 10.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB32",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Hangisi daha ağırdır: bir kilo pamuk mu, bir kilo demir mi?",
+      "promptEN": "Which is heavier: a kilo of cotton or a kilo of iron?",
+      "correctAnswerTR": "İkisi de eşit",
+      "correctAnswerEN": "They weigh the same",
+      "distractorsTR": [
+        "Demir",
+        "Pamuk",
+        "Havaya göre değişir"
+      ],
+      "distractorsEN": [
+        "The iron",
+        "The cotton",
+        "It depends on the weather"
+      ],
+      "explanationTR": "İkisi de bir kilo; demir sadece daha az yer kaplar.",
+      "explanationEN": "Both are one kilo; the iron just takes up less space.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB33",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Bir babanın dört kızı var ve her kızın bir erkek kardeşi var. Ailede kaç çocuk var?",
+      "promptEN": "A father has four daughters, and each daughter has one brother. How many children are in the family?",
+      "correctAnswerTR": "5",
+      "correctAnswerEN": "5",
+      "distractorsTR": [
+        "8",
+        "4",
+        "6"
+      ],
+      "distractorsEN": [
+        "8",
+        "4",
+        "6"
+      ],
+      "explanationTR": "Dört kızın erkek kardeşi aynı kişidir: 4 kız + 1 oğlan.",
+      "explanationEN": "All four girls share the same brother: 4 girls + 1 boy.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB34",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Bir koşu yarışında ikinci sıradakini geçtin. Şimdi kaçıncısın?",
+      "promptEN": "In a race, you overtake the runner in second place. What place are you in now?",
+      "correctAnswerTR": "İkinci",
+      "correctAnswerEN": "Second",
+      "distractorsTR": [
+        "Birinci",
+        "Üçüncü",
+        "Sonuncu"
+      ],
+      "distractorsEN": [
+        "First",
+        "Third",
+        "Last"
+      ],
+      "explanationTR": "İkinciyi geçince onun yerini alırsın; birinci hâlâ öndedir.",
+      "explanationEN": "Passing second place puts you in second; the leader is still ahead.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB35",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Bir taksici tek yönlü sokakta ters yöne gidiyor. Polis onu görüyor ama ceza kesmiyor. Neden?",
+      "promptEN": "A taxi driver goes the wrong way down a one-way street. A police officer sees him but gives no fine. Why?",
+      "correctAnswerTR": "Taksici yürüyordu",
+      "correctAnswerEN": "The driver was walking",
+      "distractorsTR": [
+        "Polis arkadaşıydı",
+        "Gece olduğu için",
+        "Acil bir durumdaydı"
+      ],
+      "distractorsEN": [
+        "The officer was his friend",
+        "Because it was night",
+        "It was an emergency"
+      ],
+      "explanationTR": "Bilmece arabadan hiç söz etmiyor: taksici yayaydı.",
+      "explanationEN": "The riddle never mentions a car: the driver was on foot.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB36",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Hangi ayda 28 gün vardır?",
+      "promptEN": "Which month has 28 days?",
+      "correctAnswerTR": "Hepsinde",
+      "correctAnswerEN": "All of them",
+      "distractorsTR": [
+        "Şubat",
+        "Hiçbirinde",
+        "Sadece artık yıl Şubat'ında"
+      ],
+      "distractorsEN": [
+        "February",
+        "None",
+        "Only February in a leap year"
+      ],
+      "explanationTR": "Her ayın en az 28 günü vardır.",
+      "explanationEN": "Every month has at least 28 days.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB37",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Karanlık bir odaya elinde tek kibritle giriyorsun. Odada mum, gaz lambası ve soba var. İlk önce neyi yakarsın?",
+      "promptEN": "You enter a dark room with a single match. There is a candle, an oil lamp and a stove. What do you light first?",
+      "correctAnswerTR": "Kibriti",
+      "correctAnswerEN": "The match",
+      "distractorsTR": [
+        "Mumu",
+        "Gaz lambasını",
+        "Sobayı"
+      ],
+      "distractorsEN": [
+        "The candle",
+        "The oil lamp",
+        "The stove"
+      ],
+      "explanationTR": "Hiçbirini yakamadan önce kibriti yakman gerekir.",
+      "explanationEN": "Before anything else, you have to light the match.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB38",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Sepette 10 elma var. Elmaları 10 kişiye birer tane veriyorsun ama sepette de bir elma kalıyor. Nasıl?",
+      "promptEN": "A basket holds 10 apples. You give one to each of 10 people, yet one apple stays in the basket. How?",
+      "correctAnswerTR": "Sonuncuya elmayı sepetiyle verirsin",
+      "correctAnswerEN": "The last person gets the apple in the basket",
+      "distractorsTR": [
+        "Bir elmayı ikiye bölersin",
+        "Birine elma vermezsin",
+        "Fazladan elma alırsın"
+      ],
+      "distractorsEN": [
+        "You cut one apple in half",
+        "You skip one person",
+        "You buy an extra apple"
+      ],
+      "explanationTR": "Onuncu kişi elmasını sepetin içinde alır.",
+      "explanationEN": "The tenth person receives the apple still in the basket.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB39",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Bir doktorun erkek kardeşi var, ama o erkek kardeşin hiç erkek kardeşi yok. Bu nasıl olur?",
+      "promptEN": "A doctor has a brother, but that brother has no brothers. How?",
+      "correctAnswerTR": "Doktor kadındır",
+      "correctAnswerEN": "The doctor is a woman",
+      "distractorsTR": [
+        "Üvey kardeştirler",
+        "Kardeş evlatlıktır",
+        "Doktor yanılıyor"
+      ],
+      "distractorsEN": [
+        "They are step-siblings",
+        "The brother is adopted",
+        "The doctor is mistaken"
+      ],
+      "explanationTR": "Doktor onun ablasıdır; erkek kardeşin yalnızca bir kız kardeşi vardır.",
+      "explanationEN": "The doctor is his sister, so he has a sister but no brother.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB40",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Kadıköy vapuru dolu kalkıyor, ama gemide tek bir bekâr yolcu yok. Nasıl?",
+      "promptEN": "The Kadıköy ferry leaves full, yet not a single single passenger is on board. How?",
+      "correctAnswerTR": "Yolcuların hepsi evli",
+      "correctAnswerEN": "Every passenger is married",
+      "distractorsTR": [
+        "Hepsi çocuk",
+        "Vapur aslında boş",
+        "Hepsi turist"
+      ],
+      "distractorsEN": [
+        "They are all children",
+        "The ferry is actually empty",
+        "They are all tourists"
+      ],
+      "explanationTR": "Bekâr yoksa herkes evlidir.",
+      "explanationEN": "If no one is single, everyone is married.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB41",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Güneşe sırtını dönünce önüne düşer; ne kadar koşsan onu yakalayamazsın. Nedir?",
+      "promptEN": "Turn your back to the sun and it falls in front of you; however fast you run, you never catch it. What is it?",
+      "correctAnswerTR": "Gölgen",
+      "correctAnswerEN": "Your shadow",
+      "distractorsTR": [
+        "Ufuk",
+        "Rüzgâr",
+        "Serap"
+      ],
+      "distractorsEN": [
+        "The horizon",
+        "The wind",
+        "A mirage"
+      ],
+      "explanationTR": "Gölgen hep senden bir adım önde, seninle birlikte hareket eder.",
+      "explanationEN": "Your shadow stays a step ahead and moves with you.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB42",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Adını söylediğin anda bozulan nedir?",
+      "promptEN": "What breaks the moment you say its name?",
+      "correctAnswerTR": "Sessizlik",
+      "correctAnswerEN": "Silence",
+      "distractorsTR": [
+        "Rüya",
+        "Sır",
+        "Karanlık"
+      ],
+      "distractorsEN": [
+        "A dream",
+        "A secret",
+        "Darkness"
+      ],
+      "explanationTR": "\"Sessizlik\" demek sesi çıkarır, sessizlik biter.",
+      "explanationEN": "Saying \"silence\" makes a sound, so the silence is gone.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB43",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Bir horoz damın sivri tepesinde yumurtlasa, yumurta hangi tarafa düşer?",
+      "promptEN": "If a rooster lays an egg on the peak of a roof, which side does it roll down?",
+      "correctAnswerTR": "Horoz yumurtlamaz",
+      "correctAnswerEN": "Roosters don't lay eggs",
+      "distractorsTR": [
+        "Sağa",
+        "Sola",
+        "Rüzgârın estiği yöne"
+      ],
+      "distractorsEN": [
+        "To the right",
+        "To the left",
+        "Downwind"
+      ],
+      "explanationTR": "Yumurtayı tavuk yumurtlar; horoz değil.",
+      "explanationEN": "Hens lay eggs, roosters do not.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB44",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Saat 3:15'i gösterirken akrep ile yelkovan arasındaki açı kaç derecedir?",
+      "promptEN": "At 3:15, what is the angle between the hour and minute hands?",
+      "correctAnswerTR": "7,5°",
+      "correctAnswerEN": "7.5°",
+      "distractorsTR": [
+        "0°",
+        "15°",
+        "90°"
+      ],
+      "distractorsEN": [
+        "0°",
+        "15°",
+        "90°"
+      ],
+      "explanationTR": "Yelkovan 3'te durur, akrep ise çeyrek saatte 3'ten 4'e doğru 7,5° ilerlemiştir.",
+      "explanationEN": "The minute hand points at 3, but the hour hand has moved 7.5° past 3 in a quarter hour.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB45",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Ne kadar çok olursa o kadar az görürsün. Nedir?",
+      "promptEN": "The more there is of it, the less you see. What is it?",
+      "correctAnswerTR": "Karanlık",
+      "correctAnswerEN": "Darkness",
+      "distractorsTR": [
+        "Işık",
+        "Gözlük",
+        "Ayna"
+      ],
+      "distractorsEN": [
+        "Light",
+        "Glasses",
+        "A mirror"
+      ],
+      "explanationTR": "Karanlık arttıkça görebildiğin şeyler azalır.",
+      "explanationEN": "The darker it gets, the less you can see.",
+      "sourceIds": []
+    },
+    {
+      "id": "NB46",
+      "category": "Bilmece",
+      "mechanicId": "F10",
+      "difficulty": 2,
+      "durationSeconds": 45,
+      "promptTR": "Bir kuyunun dibindeki salyangoz her gün 3 metre tırmanıyor, her gece 2 metre kayıyor. Kuyu 10 metre. Salyangoz kaçıncı gün çıkar?",
+      "promptEN": "A snail at the bottom of a 10 m well climbs 3 m each day and slips 2 m each night. On which day does it get out?",
+      "correctAnswerTR": "8. gün",
+      "correctAnswerEN": "Day 8",
+      "distractorsTR": [
+        "10. gün",
+        "7. gün",
+        "9. gün"
+      ],
+      "distractorsEN": [
+        "Day 10",
+        "Day 7",
+        "Day 9"
+      ],
+      "explanationTR": "7 gecenin sonunda 7 metrededir; 8. gün 3 metre tırmanıp 10'a ulaşır ve kaymadan çıkar.",
+      "explanationEN": "After 7 nights it is at 7 m; on day 8 it climbs 3 m, reaches 10 m and is out before slipping.",
+      "sourceIds": []
+    }
+  ]
+}

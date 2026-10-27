@@ -1,0 +1,45 @@
+#include "Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl"
+#include "Packages/com.unity.render-pipelines.core/Runtime/UnifiedRayTracing/TraceRayAndQueryHit.hlsl"
+UNIFIED_RT_DECLARE_ACCEL_STRUCT(_Scene);
+Texture2D<float> _SceneDepth;
+Texture2D<float4> _SceneNormals;
+RWTexture2D<float2> _ContactOutput;
+float4x4 _InverseViewProjection;
+float4 _RayDimensions;
+float3 _RoadOrigin, _SunDirection;
+
+void RayGenExecute(UnifiedRT::DispatchInfo info)
+{
+    uint2 pixel = info.dispatchThreadID.xy;
+    if (any(pixel >= (uint2)_RayDimensions.xy)) return;
+    float2 uv = (pixel + .5) / _RayDimensions.xy;
+    uint2 fullPixel = min((uint2)(uv * _RayDimensions.zw), (uint2)_RayDimensions.zw - 1);
+    float depth = _SceneDepth.Load(int3(fullPixel, 0));
+    float3 normal = _SceneNormals.Load(int3(fullPixel, 0)).xyz;
+    float3 world = ComputeWorldSpacePosition(uv, depth, _InverseViewProjection);
+    float3 relative = world - _RoadOrigin;
+    if (depth <= .000001 || dot(normal, normal) < .1 || dot(relative, relative) > 24*24 || relative.z > 25)
+    { _ContactOutput[pixel] = float2(1, depth); return; }
+    normal = normalize(normal);
+    float3 tangent = normalize(cross(normal, abs(normal.y) > .9 ? float3(1,0,0) : float3(0,1,0)));
+    float3 bitangent = cross(normal, tangent);
+    UnifiedRT::Ray ray;
+    ray.origin = world + normal * .045;
+    ray.tMin = .025;
+    ray.tMax = 1.6;
+    float visibility = 0;
+    for (uint sampleIndex = 0; sampleIndex < 3; sampleIndex++)
+    {
+        float angle = sampleIndex * 2.0943951 + .37;
+        ray.direction = normalize(normal * .82 + tangent * cos(angle) * .57 + bitangent * sin(angle) * .57);
+        visibility += UnifiedRT::TraceRayAnyHit(info, UNIFIED_RT_GET_ACCEL_STRUCT(_Scene), 255, ray, 0) ? 0 : 1;
+    }
+    float shade = lerp(.72, 1, visibility / 3);
+    if (dot(normal, _SunDirection) > .12)
+    {
+        ray.direction = normalize(_SunDirection); ray.tMax = 5;
+        if (ray.direction.z > .001) ray.tMax = min(ray.tMax, max(.025, (27 - relative.z) / ray.direction.z));
+        if (UnifiedRT::TraceRayAnyHit(info, UNIFIED_RT_GET_ACCEL_STRUCT(_Scene), 255, ray, 0)) shade *= .9;
+    }
+    _ContactOutput[pixel] = float2(shade, depth);
+}

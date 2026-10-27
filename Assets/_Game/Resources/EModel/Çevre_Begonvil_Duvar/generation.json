@@ -1,0 +1,21 @@
+{
+  "asset": "Çevre_Begonvil_Duvar",
+  "provider": "Hyper3D Rodin Gen-2.5-High",
+  "generationId": "77a1156f-4804-4bff-9291-949edc5912fb",
+  "displayUrl": "https://hyper3d.ai/workspace/rodin/77a1156f-4804-4bff-9291-949edc5912fb",
+  "format": "GLB",
+  "meshMode": "Quad",
+  "requestedPolygonTarget": 10000,
+  "prompt": "Create one clean, game-ready 3D asset: a climbing bougainvillea vine (paperflower) attached to a narrow vertical stucco wall section, with a subtle woody branching main stem, several thin natural curling branches, many clearly separated dark green leaves, and small clusters of vivid magenta-pink papery bracts with tiny cream centers. The foliage silhouette should be irregular and airy with readable gaps between branches, not large spherical blobs. Include a small unobtrusive root base only, no pot, no wall mesh, no facade, no sign, no text, no ground, no scene, no background. Upright orientation, origin at the wall base, suitable to mount flush to a vertical wall in Unity. Cohesive stylized-realistic Mediterranean street art direction, handcrafted detailed forms, PBR materials, clean topology, one static prop, 8k-12k polygons, 2K textures. Keep pink bracts, green leaves, and brown stem as distinct materials.",
+  "deliveredTriangleCount": 43924,
+  "materialCount": 1,
+  "textures": [
+    "normal 2048x2048",
+    "base color 2048x2048",
+    "metallic-roughness 2048x2048"
+  ],
+  "notes": [
+    "Generated model validated for UVs, normals, dimensions, materials and texture budget. Source has no tangents; Unity glTFast importer recalculates tangents when a normal map needs them."
+  ],
+  "sha256": "FC1D9B27D3FECB0007346F930A51129C6E7C3771C856D07EE38972E0E993A4CD"
+}

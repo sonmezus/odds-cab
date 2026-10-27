@@ -1,0 +1,13 @@
+{
+  "modelPath": "Assets/_Game/Resources/EModel/Çevre_Begonvil_Duvar/base_basic_pbr.glb",
+  "maxTriangles": 50000,
+  "maxMaterials": 1,
+  "minTextureSize": 2048,
+  "maxTextureSize": 2048,
+  "minDimensionMeters": 0.45,
+  "maxDimensionMeters": 2.2,
+  "requireUVs": true,
+  "requireNormals": true,
+  "requirePowerOfTwoTextures": true,
+  "requireTangentsWithNormalMap": false
+}

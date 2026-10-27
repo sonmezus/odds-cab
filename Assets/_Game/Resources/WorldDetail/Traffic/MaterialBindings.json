@@ -1,0 +1,204 @@
+{
+  "entries": [
+    {
+      "name": "TRAFFIC_Punto_gt_black",
+      "baseMap": "",
+      "normalMap": "",
+      "roughness": 0.65,
+      "metallic": 0.03,
+      "r": 0.018,
+      "g": 0.025,
+      "b": 0.027
+    },
+    {
+      "name": "TRAFFIC_Punto_gt_license",
+      "baseMap": "WorldDetail/Traffic/Surfaces/TRAFFIC_Punto_gt_license_Color",
+      "normalMap": "WorldDetail/Traffic/Normals/TRAFFIC_Punto_gt_license_Normal",
+      "roughness": 0.38,
+      "metallic": 0.03,
+      "r": 1,
+      "g": 1,
+      "b": 1
+    },
+    {
+      "name": "TRAFFIC_Punto_gt_tire",
+      "baseMap": "WorldDetail/Traffic/Surfaces/TRAFFIC_Punto_gt_tire_Color",
+      "normalMap": "WorldDetail/Traffic/Normals/TRAFFIC_Punto_gt_tire_Normal",
+      "roughness": 0.72,
+      "metallic": 0.03,
+      "r": 1,
+      "g": 1,
+      "b": 1
+    },
+    {
+      "name": "TRAFFIC_Punto_gt_rim",
+      "baseMap": "WorldDetail/Traffic/Surfaces/TRAFFIC_Punto_gt_rim_Color",
+      "normalMap": "WorldDetail/Traffic/Normals/TRAFFIC_Punto_gt_rim_Normal",
+      "roughness": 0.38,
+      "metallic": 0.8,
+      "r": 1,
+      "g": 1,
+      "b": 1
+    },
+    {
+      "name": "TRAFFIC_Punto_gt_windows",
+      "baseMap": "WorldDetail/Traffic/Surfaces/TRAFFIC_Punto_gt_windows_Color",
+      "normalMap": "",
+      "roughness": 0.14,
+      "metallic": 0.1,
+      "r": 1,
+      "g": 1,
+      "b": 1
+    },
+    {
+      "name": "TRAFFIC_Punto_gt_lights",
+      "baseMap": "WorldDetail/Traffic/Surfaces/TRAFFIC_Punto_gt_lights_Color",
+      "normalMap": "",
+      "roughness": 0.38,
+      "metallic": 0.03,
+      "r": 1,
+      "g": 1,
+      "b": 1
+    },
+    {
+      "name": "TRAFFIC_Punto_gt_body",
+      "baseMap": "WorldDetail/Traffic/Surfaces/TRAFFIC_Punto_gt_body_Color",
+      "normalMap": "",
+      "roughness": 0.25,
+      "metallic": 0.15,
+      "r": 1,
+      "g": 1,
+      "b": 1
+    },
+    {
+      "name": "TRAFFIC_Punto_gt_details",
+      "baseMap": "WorldDetail/Traffic/Surfaces/TRAFFIC_Punto_gt_details_Color",
+      "normalMap": "",
+      "roughness": 0.38,
+      "metallic": 0.03,
+      "r": 1,
+      "g": 1,
+      "b": 1
+    },
+    {
+      "name": "StudioGround_Punto",
+      "baseMap": "",
+      "normalMap": "",
+      "roughness": 0.9,
+      "metallic": 0.05,
+      "r": 0.18,
+      "g": 0.21,
+      "b": 0.23
+    },
+    {
+      "name": "TRAFFIC_Zuk_zuk",
+      "baseMap": "WorldDetail/Traffic/Surfaces/TRAFFIC_Zuk_zuk_Color",
+      "normalMap": "WorldDetail/Traffic/Normals/TRAFFIC_Zuk_zuk_Normal",
+      "roughness": 0.47,
+      "metallic": 0.08,
+      "r": 1,
+      "g": 1,
+      "b": 1
+    },
+    {
+      "name": "TRAFFIC_Zuk_Material",
+      "baseMap": "WorldDetail/Traffic/Surfaces/TRAFFIC_Zuk_Material_Color",
+      "normalMap": "WorldDetail/Traffic/Normals/TRAFFIC_Zuk_Material_Normal",
+      "roughness": 0.47,
+      "metallic": 0.08,
+      "r": 1,
+      "g": 1,
+      "b": 1
+    },
+    {
+      "name": "StudioGround_Zuk",
+      "baseMap": "",
+      "normalMap": "",
+      "roughness": 0.9,
+      "metallic": 0.05,
+      "r": 0.18,
+      "g": 0.21,
+      "b": 0.23
+    },
+    {
+      "name": "TRAFFIC_Bus_BusWheel",
+      "baseMap": "WorldDetail/Traffic/Surfaces/TRAFFIC_Bus_BusWheel_Color",
+      "normalMap": "",
+      "roughness": 0.6,
+      "metallic": 0.1,
+      "r": 1,
+      "g": 1,
+      "b": 1
+    },
+    {
+      "name": "TRAFFIC_Bus_Roaz5236_Interior",
+      "baseMap": "WorldDetail/Traffic/Surfaces/TRAFFIC_Bus_Roaz5236_Interior_Color",
+      "normalMap": "",
+      "roughness": 0.34,
+      "metallic": 0.1,
+      "r": 1,
+      "g": 1,
+      "b": 1
+    },
+    {
+      "name": "TRAFFIC_Bus_Roaz5236_IntDoors",
+      "baseMap": "WorldDetail/Traffic/Surfaces/TRAFFIC_Bus_Roaz5236_IntDoors_Color",
+      "normalMap": "",
+      "roughness": 0.34,
+      "metallic": 0.1,
+      "r": 1,
+      "g": 1,
+      "b": 1
+    },
+    {
+      "name": "TRAFFIC_Bus_RoAZ_5236",
+      "baseMap": "WorldDetail/Traffic/Surfaces/TRAFFIC_Bus_RoAZ_5236_Color",
+      "normalMap": "",
+      "roughness": 0.34,
+      "metallic": 0.1,
+      "r": 1,
+      "g": 1,
+      "b": 1
+    },
+    {
+      "name": "TRAFFIC_Bus_Mirrors",
+      "baseMap": "WorldDetail/Traffic/Surfaces/TRAFFIC_Bus_Mirrors_Color",
+      "normalMap": "",
+      "roughness": 0.34,
+      "metallic": 0.1,
+      "r": 1,
+      "g": 1,
+      "b": 1
+    },
+    {
+      "name": "StudioGround_Bus",
+      "baseMap": "",
+      "normalMap": "",
+      "roughness": 0.9,
+      "metallic": 0.05,
+      "r": 0.18,
+      "g": 0.21,
+      "b": 0.23
+    },
+    {
+      "name": "TRAFFIC_Compact_model",
+      "baseMap": "WorldDetail/Traffic/Surfaces/TRAFFIC_Compact_model_Color",
+      "normalMap": "WorldDetail/Traffic/Normals/TRAFFIC_Compact_model_Normal",
+      "roughness": 0.32,
+      "metallic": 0.12,
+      "r": 1,
+      "g": 1,
+      "b": 1
+    },
+    {
+      "name": "StudioGround_Compact",
+      "baseMap": "",
+      "normalMap": "",
+      "roughness": 0.9,
+      "metallic": 0.05,
+      "r": 0.18,
+      "g": 0.21,
+      "b": 0.23
+    }
+  ]
+}
